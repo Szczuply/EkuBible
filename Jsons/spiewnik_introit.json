@@ -1,0 +1,3441 @@
+{
+	"IntroitySpiewnikKoscielny": [
+		{
+			"NR": "1",
+			"TYTUL": "Nabożeństwo uroczyste",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks:Wspomożenie nasze niech będzie w imieniu Pańskim.",
+						"Zb: Który stworzył niebo i ziemię.",
+						"Ks: Panie, racz otworzyć wargi nasze!",
+						"Zb: A usta nasze opowiadać będą chwałę Twoją",
+						"Ks: Panie, Boże, z pomocą swoją nie odwłaczajże.",
+						"Zb: O Panie, abyś nam dał ratunek, pośpiesz się!",
+						"Ks: Chwała Ojcu i Synowi, i Duchowi świętemu.",
+						"Zb: Jak było od początku, teraz i zawsze, aż na wieki wieków, Amen. Alleluja! Alleluja!"
+					]
+				}
+			]
+		},
+		{
+			"NR": "2",
+			"TYTUL": "1. Niedziela w Adwencie",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wesel się bardzo córko syjońska!",
+						"Zb: Wykrzykuj córko jeruzalemska! (Za 9,9a)",
+						"Ks: Podnieście, bramy, wierzchy wasze,",
+						"Zb: Aby wszedł Król chwały!",
+						"Ks: Któż jest tym Królem chwały?",
+						"Zb: Pan silny i potężny, Pan potężny w boju. (Ps 24,8)]"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Do ciebie, Panie, wznoszę duszę moją.",
+						"Zb: Boże mój! Tobie ufam.",
+						"Ks: Zaiste, wszyscy, którzy nadzieję pokładają w Tobie,",
+						"Zb: Nie zaznają wstydu.",
+						"Ks: Panie, wskaż mi drogi swoje,",
+						"Zb: Ścieżek swoich naucz mnie! (Ps 25)"
+					]
+				}
+			],
+			"GRADUALE": "Z Syjonu pełnego piękności Bóg zajaśniał. Bóg nasz przybywa i nie milczy. Alleluja! (Ps 50,2.Ja)",
+			"ANTYFONA": [
+				"Ks: Oto twój Król przychodzi do ciebie. Alleluja!",
+				"Zb: Sprawiedliwy On i zwycięski. Alleluja! (Za 9,9b)"
+			]
+		},
+		{
+			"NR": "3",
+			"TYTUL": "2. Niedziela w Adwencie",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Słuchaj Pasterzu Izraela!",
+						"Zb: Który zasiadasz na cherubach, ukaż się w chwale!",
+						"Ks: Nie odstępujemy od Ciebie, zachowaj nas przy życiu,",
+						"Zb: A będziemy wzywali imienia Twojego!",
+						"Ks: Panie, Boże Zastępów, spraw nam odnowę,",
+						"Zb: Rozjaśnij oblicze swoje, a będziemy zbawieni. (Ps 80,2-3.19-20)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Wyprostujcie się i podnieście głowy swoje,",
+						"Zb: Gdyż zbliża się odkupienie wasze. (Łk 21,28)",
+						"Ks: Boże Zastępów, spraw nam odnowę!",
+						"Zb: Spójrz z nieba i patrz, i ujmij się za tą winoroślą.",
+						"Ks: Ręka Twoja niech spocznie na mężu prawicy Twojej,",
+						"Zb: Na synu człowieczym, któregoś sobie wychował. (Ps 80,18)"
+					]
+				}
+			],
+			"GRADUALE": "Pan idzie zaiste, by sądzić ziemię. Będzie sądził świat sprawiedliwie, a ludy według swej wierności. Alleluja! (Ps 96, 13)",
+			"ANTYFONA": [
+				"Ks: Boże, odnów nas i rozjaśnij oblicze swoje. Alleluja!",
+				"Zb: A będziemy zbawieni. Alleluja! (Ps 80,4)"
+			]
+		},
+		{
+			"NR": "4",
+			"TYTUL": "3. Niedziela w Adwencie",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Mówcie do zaniepokojonych w sercu:",
+						"Zb: Bądźcie mocni i nie bójcie się! (Iz 35,4a)",
+						"Ks: Panie, okazałeś łaskę ziemi swojej,",
+						"Zb: Odmieniłeś los Jakuba.",
+						"Ks: Czy nie ożywisz nas znowu?",
+						"Zb: Aby lud Twój rozradował się w Tobie? (Ps 85,2.7)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Zaiste, zbawienie jest bliskie dla tych, którzy się Go boją,",
+						"Zb: Aby chwała Jego zamieszkała w naszej ziemi.",
+						"Ks: Aby łaska i wierność się spotkały,",
+						"Zb: A sprawiedliwość i pokój pocałowały.",
+						"Ks: Wierność wyrośnie z ziemi,",
+						"Zb: A sprawiedliwość wyjrzy z niebios. (Ps 85, 10-12)"
+					]
+				}
+			],
+			"GRADUALE": "Pan jest łaskawy i sprawiedliwy, litościwy jest nasz Bóg. Alleluja! (Ps 116,5)",
+			"ANTYFONA": [
+				"Ks: Ludu na Syjonie, nie będziesz zawsze płakał. Alleluja!",
+				"Zb: Pan okaże ci łaskę na głos twojego wołania. Alleluja! (Iz 30,19)"
+			]
+		},
+		{
+			"NR": "5",
+			"TYTUL": "4. Niedziela w Adwencie",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Spuśćcie niebiosa rosę z góry,",
+						"Zb: A obłoki niech sączą sprawiedliwość!",
+						"Ks: Niech się otworzy ziemia,",
+						"Zb: Niech wzejdzie sprawiedliwość! (Iz 45,8)",
+						"Ks: Pan wejrzał ze swojej świętej wysokości.",
+						"Zb: Pan spojrzał z nieba na ziemię. (Ps 102,20)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Radujcie się w Panu zawsze;",
+						"Zb: Radujcie się, bo Pan jest blisko. (Flp 4,4.5)",
+						"Ks: Panie, Ty zmiłujesz się nad Syjonem,",
+						"Zb: Gdyż nadeszła właściwa pora.",
+						"Ks: Pan wejrzał ze swojej świętej wysokości.",
+						"Zb: Pan spojrzał z nieba na ziemię. (Ps 102,20)"
+					]
+				}
+			],
+			"GRADUALE": "Serce moje wezbrało miłym słowem: opowiem czyny moje królowi. Alleluja! (Ps 45,2)",
+			"ANTYFONA": [
+				"Ks: Wielbi dusza moja Pana. Alleluja!",
+				"Zb: I rozradował się duch mój w Bogu, Zbawicielu moim. Alleluja! (Łk 1,46)"
+			]
+		},
+		{
+			"NR": "6",
+			"TYTUL": "Wigilia Narodzenia Pańskiego - 24 grudnia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks:Wspomożenie nasze niech będzie w imieniu Pańskim.",
+						"Zb: Który stworzył niebo i ziemię.",
+						"Ks: Panie, racz otworzyć wargi nasze!",
+						"Zb: A usta nasze opowiadać będą chwałę Twoją",
+						"Ks: Panie, Boże, z pomocą swoją nie odwłaczajże.",
+						"Zb: O Panie, abyś nam dał ratunek, pośpiesz się!",
+						"Ks: Chwała Ojcu i Synowi, i Duchowi świętemu.",
+						"Zb: Jak było od początku, teraz i zawsze, aż na wieki wieków, Amen. Alleluja! Alleluja!"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Wieczorem poznacie, że Pan przyjdzie, aby nas zbawić. Alleluja!",
+						"Zb: A rano ujrzycie chwałę Pańską. Alleluja! (2 Mż 16,6.7)",
+						"Ks: Lud, który chodzi w ciemności, ujrzy światło wielkie. Alleluja!",
+						"Zb: Nad mieszkańcami krainy mroków zabłyśnie światłość. Alleluja!",
+						"Ks: Albowiem Dziecię narodziło się nam. Alleluja! ",
+						"Zb: A Syn jest nam dany. Alleluja! (Iz 9,1.5)"
+					]
+				}
+			],
+			"GRADUALE": "Niech się radują niebiosa i weseli się ziemia I przed obliczem Pana, bo idzie. Alleluja! (Ps 96, I I a. I 3a)",
+			"ANTYFONA": [
+				"Ks: Wielka jest tajemnica pobożności . Alleluja!",
+				"Zb: Bóg objawił się w ciele. Alleluja! (1 Tm 3, 16)"
+			]
+		},
+		{
+			"NR": "7",
+			"TYTUL": "Pasterka i Jutrznia - 25 grudnia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks:Wspomożenie nasze niech będzie w imieniu Pańskim.",
+						"Zb: Który stworzył niebo i ziemię.",
+						"Ks: Panie, racz otworzyć wargi nasze!",
+						"Zb: A usta nasze opowiadać będą chwałę Twoją",
+						"Ks: Panie, Boże, z pomocą swoją nie odwłaczajże.",
+						"Zb: O Panie, abyś nam dał ratunek, pośpiesz się!",
+						"Ks: Chwała Ojcu i Synowi, i Duchowi świętemu.",
+						"Zb: Jak było od początku, teraz i zawsze, aż na wieki wieków, Amen. Alleluja! Alleluja!"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Pan rzekł do mnie: Synem moim jesteś! Alleluja!",
+						"Zb: Dziś Cię zrodziłem. Alleluja! (Ps 2, 7)",
+						"Ks: Albowiem Dziecię narodziło się nam. Alleluja!",
+						"Zb: A Syn jest nam dany. Alleluja! (Iz 9,5)",
+						"Ks: Służcie Panu z bojaźnią i weselcie się. Alleluja!",
+						"Zb: Z drżeniem złóżcie Mu hołd. Alleluja!"
+					]
+				}
+			],
+			"GRADUALE": [
+				"Niech się radują niebiosa i weseli się ziemia I przed obliczem Pana, bo idzie. Alleluja! (Ps 96,J la.13a)",
+				"Zajaśniał nam dzień święty, pójdźcie, narody, oddajcie pokłon Panu, I bo wielka światłość zstąpiła dzisiaj na ziemię. Alleluja!"
+			],
+			"ANTYFONA": [
+				"Ks: Wielka jest tajemnica pobożności. Alleluja!",
+				"Zb: Bóg objawił się w ciele. Alleluja! (I Tm 3, 16)"
+			]
+		},
+		{
+			"NR": "8",
+			"TYTUL": "Święto Narodzenia Pańskiego - 25 grudnia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks:Wspomożenie nasze niech będzie w imieniu Pańskim.",
+						"Zb: Który stworzył niebo i ziemię.",
+						"Ks: Panie, racz otworzyć wargi nasze!",
+						"Zb: A usta nasze opowiadać będą chwałę Twoją",
+						"Ks: Panie, Boże, z pomocą swoją nie odwłaczajże.",
+						"Zb: O Panie, abyś nam dał ratunek, pośpiesz się!",
+						"Ks: Chwała Ojcu i Synowi, i Duchowi świętemu.",
+						"Zb: Jak było od początku, teraz i zawsze, aż na wieki wieków, Amen. Alleluja! Alleluja!"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Lud, który chodzi w ciemności, ujrzy światło wielkie. Alleluja!",
+						"Zb: Nad mieszkańcami krainy mroków zabłyśnie światłość. Alleluja!",
+						"Ks: Albowiem Dziecię narodziło się nam. Alleluja!",
+						"Zb: A Syn jest nam dany. Alleluja! (Iz 9,1.5)",
+						"Ks: Śpiewajcie Panu pieśń nową. Alleluja!",
+						"Zb: Śpiewaj Panu cała ziemio. Alleluja!"
+					]
+				}
+			],
+			"GRADUALE": [
+				"Pan wspomniał na łaskę swoją i wierność dla domu Izraela; wszystkie krańce ziemi ujrzały zbawienie Boga naszego. Alleluja! (Ps 98,3)",
+				"Zajaśniał nam dzień święty, pójdźcie, narody, oddajcie pokłon Panu, bo wielka światłość zstąpiła dzisiaj na ziemię. Alleluja!"
+			],
+			"ANTYFONA": [
+				"Ks: Słowo ciałem się stało i zamieszkało wśród nas. Alleluja!",
+				"Zb: I ujrzeliśmy chwałę Jego. Alleluja! (J 1,14)"
+			]
+		},
+		{
+			"NR": "9",
+			"TYTUL": "Święto Narodzenia Pańskiego - 26 grudnia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Dziecię narodziło się nam. Alleluja!",
+						"Zb: A Syn jest nam dany. Alleluja!",
+						"Ks: Cudowny Doradca, Bóg Mocny. Alleluja!",
+						"Zb: Ojciec Odwieczny, Książę Pokoju. Alleluja!",
+						"Ks: Śpiewajcie Panu pieśń nową. Alleluja!",
+						"Zb: Błogosławcie imię Jego, zwiastujcie co dzień zbawienie Jego! Alleluja!"
+					]
+				}
+			],
+			"GRADUALE": [
+				"Pan wspomniał na łaskę swoją i wierność dla domu Izraela; I wszystkie krańce ziemi ujrzały zbawienie Boga naszego. Alleluja! (Ps 98,3)",
+				"Zajaśniał nam dzień święty, pójdźcie, narody, oddajcie pokłon Panu, I bo wielka światłość zstąpiła dzisiaj na ziemię. Alleluja!"
+			],
+			"ANTYFONA": [
+				"Ks: Słowo ciałem się stało i zamieszkało wśród nas. Alleluja!",
+				"Zb: I ujrzeliśmy chwałę Jego. Alleluja! (J 1, 14)"
+			]
+		},
+		{
+			"NR": "10",
+			"TYTUL": "Uroczystość Diakona Szczepana Męczennika - 26 grudnia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Drogocenna jest w oczach Pana",
+						"Zb: Śmierć wiernych Jego. (Ps 116,15)",
+						"Ks: Tobie złożę ofiarę dziękczynną",
+						"Zb: I będę wzywał imienia Pana. (Ps 116, 17)",
+						"Ks: Dusza moja tęskni do zbawienia Twojego",
+						"Zb: Oczekuję Słowa Twojego. (Ps 119,81)"
+					]
+				}
+			],
+			"GRADUALE": "Pokładam w Panu, w Bogu nadzieję moją, aby opowiadać o wszystkich dziełach twoich. Alleluja! (Ps 73,28)",
+			"ANTYFONA": [
+				"Ks: Wielka jest tajemnica pobożności. Alleluja!",
+				"Zb: Bóg objawił się w ciele. Alleluja! (1 Tm 3, 16)"
+			]
+		},
+		{
+			"NR": "11",
+			"TYTUL": "Dzień Niewinnych Dzieci - 28 grudnia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, Boże mój, u Ciebie szukam schronienia.",
+						"Zb: Wybaw mnie od wszystkich prześladowców moich i mnie ocal. (Ps 7,2)",
+						"Ks: Czemu się chlubisz złością, mocarzu?",
+						"Zb: Wszak łaska Boża trwa wiecznie! (Ps 52,3)",
+						"Ks: Lecz ja jestem jak oliwka zielona w domu Bożym.",
+						"Zb: Zaufałem łasce Bożej na wieki wieków. (Ps 52,10)"
+					]
+				}
+			],
+			"GRADUALE": "Pan wymierza sprawiedliwość I i przywraca prawo wszystkim uciśnionym. Alleluja!",
+			"ANTYFONA": [
+				"Ks: Drogocenna jest w oczach Pana. Alleluja!",
+				"Zb: Śmierć wiernych Jego. Alleluja! (Ps 116, 15)"
+			]
+		},
+		{
+			"NR": "12",
+			"TYTUL": "1. Niedziela po Narodzeniu Pańskim",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Przez wielkie zmiłowanie Boga naszego. Alleluja!",
+						"Zb: Nawiedziła nas światłość z wysokości. Alleluja! (Łk 1,78)",
+						"Ks: Pan jest Królem i przyoblekł się w dostojność. Alleluja!",
+						"Zb: Pan przyoblekł się i przepasał mocą. Alleluja!",
+						"Ks: Majestat i blask przed obliczem Jego. Alleluja!",
+						"Zb: Moc i wspaniałość w świątyni Jego. Alleluja! (Ps 93,l; Ps 96,6)"
+					]
+				}
+			],
+			"GRADUALE": "Pan wspomniał na łaskę swoją i wierność dla domu Izraela; wszystkie krańce ziemi ujrzały zbawienie Boga naszego. Alleluja! (Ps 98,3)",
+			"ANTYFONA": [
+				"Ks: Słowo ciałem się stało i zamieszkało wśród nas. Alleluja!",
+				"Zb: I ujrzeliśmy chwałę Jego. Alleluja! (J 1,14)"
+			]
+		},
+		{
+			"NR": "13",
+			"TYTUL": "Stary Rok - Sylwester - 31 grudnia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Pan strzec będzie wyjścia i wejścia twego. Alleluja!",
+						"Zb: Teraz i na wieki. Alleluja",
+						"Ks: Oczy moje wznoszę ku górom. Alleluja!",
+						"Zb: Skąd nadejdzie mi pomoc? Alleluja!",
+						"Ks: Pan strzec cię będzie od wszelkiego zła. Alleluja!",
+						"Zb: Strzec będzie duszy twojej. Alleluja! (Ps 121)"
+					]
+				}
+			],
+			"GRADUALE": "Pomoc nasza w imieniu Pana, który uczynił niebo i ziemię. Alleluja! (Ps 124,8)",
+			"ANTYFONA": [
+				"Ks: Słowo ciałem się stało i zamieszkało wśród nas. Alleluja!",
+				"Zb: I ujrzeliśmy chwałę Jego. Alleluja! (J 1,14)"
+			]
+		},
+		{
+			"NR": "14",
+			"TYTUL": "Uroczystość imienia Jezus - 1 stycznia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Niech na imię Jezusa zgina się wszelkie kolano. Alleluja!",
+						"Zb: I wszelki język wyznaje, że Jezus Chrystus jest Panem. Alleluja! (Flp 2,lOa.11)",
+						"Ks: Panie, Władco nasz, jak wspaniałe jest imię Twoje na całej ziemi! Alleluja!",
+						"Zb: Ty, któryś wyniósł majestat swój na niebiosa. Alleluja! (Ps 8,2)",
+						"Ks: Czymże jest człowiek, że o nim pamiętasz. Alleluja!",
+						"Zb: A syn człowieczy, że go nawiedzasz? Alleluja! (Ps 8,5)"
+					]
+				}
+			],
+			"GRADUALE": "Błogosławić Cię będę, póki życia mego, w imieniu Twoim podnosić będę ręce moje. Alleluja! (Ps 63,5)",
+			"ANTYFONA": [
+				"Ks: Słowo ciałem się stało i zamieszkało wśród nas. Alleluja!",
+				"Zb: I ujrzeliśmy chwałę Jego. Alleluja! (J 1,14)"
+			]
+		},
+		{
+			"NR": "15",
+			"TYTUL": "Nowy Rok - 1 stycznia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, Tyś był ostoją naszą z pokolenia w pokolenie.",
+						"Zb: Od wieków na wieki Tyś jest, o Boże! (Ps 90,1-2)",
+						"Ks: Nasyć nas o świcie łaską swoją.",
+						"Zb: Abyśmy się weselili przez wszystkie dni nasze!",
+						"Ks: Niech spocznie na nas łaska Pana, Boga naszego.",
+						"Zb: A wśród nas utwierdź dzieło rąk naszych! (Ps 90,14.17)"
+					]
+				}
+			],
+			"GRADUALE": "Błogosławić Cię będę, póki życia mego, w imieniu Twoim podnosić będę ręce moje. Alleluja! (Ps 63,5)",
+			"ANTYFONA": [
+				"Ks: Słowo ciałem się stało i zamieszkało wśród nas. Alleluja!",
+				"Zb: I ujrzeliśmy chwałę Jego. Alleluja! (J 1, 14)"
+			]
+		},
+		{
+			"NR": "16",
+			"TYTUL": "2. Niedziela po Narodzeniu Pańskim",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, nad wszystko wywyższyłeś imię i Słowo swoje. Alleluja!",
+						"Zb: W dniu, gdy Cię wzywałem, wysłuchałeś mnie. Alleluja!",
+						"Ks: Oddaję pokłon przybytkowi Twemu świętemu. Alleluja!",
+						"Zb: I wysławiam imię Twoje za łaskę i za wierność Twoją. Alleluja!",
+						"Ks: Wielka jest chwała Pana. Alleluja!",
+						"Zb: Moc i wspaniałość w świątyni Jego. Alleluja! (Ps 138)"
+					]
+				}
+			],
+			"GRADUALE": "Wykrzykuj Panu, cała ziemio! Służcie Panu z radością! Alleluja! (Ps JOO,l.2a)",
+			"ANTYFONA": [
+				"Ks: Będziemy opiewali drogi Pańskie. Alleluja!",
+				"Zb: Gdyż wielka jest chwała Pana. Alleluja! (Ps 138,5)"
+			]
+		},
+		{
+			"NR": "17",
+			"TYTUL": "Święto Objawienia Pańskiego - Swięto Epifanii - 6 stycznia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, Twoim jest Królestwo i Ty jesteś wyniesiony jako głowa nad wszystko. Alleluja!",
+						"Zb: Ty władasz nad wszystkim, w Twojej ręce jest siła i moc. Alleluja! (1Krn29,11.12)",
+						"Ks: Wykrzykuj Panu, cała ziemio! Alleluja!",
+						"Zb: Służcie Panu z radością. Alleluja!",
+						"Ks: Przychodźcie przed oblicze Jego z weselem! Alleluja!",
+						"Zb: Wiedzcie, że Pan jest Bogiem! Alleluja! (Ps 100)"
+					]
+				}
+			],
+			"GRADUALE": "Chwalcie Pana, wszystkie narody, wysławiajcie Go, wszystkie ludy! Alleluja! (Ps 117,1)",
+			"ANTYFONA": [
+				"Ks: Niech będzie chwalebne imię Pana błogosławione na wieki. Alleluja!",
+				"Zb: A cała ziemia niech będzie pełna chwały Jego. Alleluja! (Ps 72,19)"
+			]
+		},
+		{
+			"NR": "18",
+			"TYTUL": "1. Niedziela po Epifanii - Święto Chrztu Pańskiego",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, Twoim jest Królestwo i Ty jesteś wyniesiony jako głowa nad wszystko. Alleluja!",
+						"Zb: Ty władasz nad wszystkim, w Twojej ręce jest siła i moc. Alleluja! (1Krn29,11.12)",
+						"Ks: Ten jest Syn mój umiłowany. Alleluja!",
+						"Zb: Którego sobie upodobałem. Alleluja!",
+						"Ks: Boże! Daj królowi prawa swoje. Alleluja!",
+						"Zb: I sprawiedliwość swoją synowi królewskiemu. Alleluja! (Mt 3,17; Ps 72,1)"
+					]
+				}
+			],
+			"GRADUALE": "Ogłoszę zarządzenie Pana: rzekł do mnie: Synem moim jesteś, dziś Cię zrodziłem. Alleluja! (Ps 2, 7)",
+			"ANTYFONA": [
+				"Ks: Niech imię Jego trwa wiecznie. Alleluja!",
+				"Zb: Niech sławią Go wszystkie narody. Alleluja! (Ps 72,17)"
+			]
+		},
+		{
+			"NR": "19",
+			"TYTUL": "2. Niedziela po Epifanii",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Niech cała ziemia korzy się przed Tobą. Alleluja!",
+						"Zb: Niech śpiewa i opiewa imię Twoje. Alleluja! (Ps 66,4)",
+						"Ks: Wysławiajcie Pana, wzywajcie imienia Jego. Alleluja!",
+						"Zb: Głoście narodom czyny Jego. Alleluja!",
+						"Ks: Pamiętajcie o cudach, które uczynił. Alleluja!",
+						"Zb: O znakach i wyrokach ust Jego. Alleluja! (Ps I 05)"
+					]
+				}
+			],
+			"GRADUALE": "Dusza moja będzie się chlubić Panem! Niechaj słuchają pokorni i weselą się! Alleluja! (Ps 34,3)",
+			"ANTYFONA": [
+				"Ks: Szukajcie Pana i mocy Jego. Alleluja!",
+				"Zb: Szukajcie zawsze oblicza Jego. Alleluja! (Ps 105,4)"
+			]
+		},
+		{
+			"NR": "20",
+			"TYTUL": "3. Niedziela po Epifanii",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Chwalcie Pana wszystkie narody. Alleluja!",
+						"Zb: Wysławiajcie Go wszystkie ludy. Alleluja!",
+						"Ks: Albowiem łaska Jego jest można nad nami. Alleluja!",
+						"Zb: A wierność Jego trwa na wieki! Alleluja! (Ps 117, 1-2)",
+						"Ks: Panie, nakłoń ucha swego i mnie wysłuchaj!",
+						"Zb: Wybaw, Boże mój, sługę swego, który ufa Tobie! (Ps 86)"
+					]
+				}
+			],
+			"GRADUALE": "Pan jest Królem. Niech się raduje ziemia, niech się weselą mnogie wyspy! Alleluja! (Ps 97.1)",
+			"ANTYFONA": [
+				"Ks: Niech nam Bóg błogosławi. Alleluja!",
+				"Zb: Niech się Go boją wszystkie krańce ziemi! Alleluja! (Ps 67,8)"
+			]
+		},
+		{
+			"NR": "21",
+			"TYTUL": "4. Niedziela po Epifanii",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Nad szum wielkich wód, nad potężne fale morskie.",
+						"Zb: Mocniejszy jest Pan na wysokości! (Ps 93,4)",
+						"Ks: Pan rzekł i zerwała się burza, która spiętrzyła fale.",
+						"Zb: Dusza ich truchlała w niebezpieczeństwie.",
+						"Ks: Wołali do Pana w swej niedoli, a On wybawił ich z utrapienia.",
+						"Zb: Uciszył burzę i uspokoiły się fale morskie. (Ps 107)"
+					]
+				}
+			],
+			"GRADUALE": "Pójdźcie i oglądajcie dzieła Boże: I Przedziwnymi okazują się pośród synów ludzkich! Alleluja! (Ps 66,5)",
+			"ANTYFONA": [
+				"Ks: Niechaj wysławiają Pana za łaskę Jego. Alleluja!",
+				"Zb: I za cuda Jego dla synów ludzkich! Alleluja! (Ps 107,31)"
+			]
+		},
+		{
+			"NR": "22",
+			"TYTUL": "5. Niedziela po Epifanii",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Jakom żyw - mówi Wszechmocny Pan - nie mam upodobania w śmierci bezbożnego.",
+						"Zb: Raczej, by się bezbożny odwrócił od swojej drogi, a wtedy żyć będzie. (wg Ez 33, Il)",
+						"Ks: Panie, jakże wielkie są dzieła Twoje!",
+						"Zb: Bardzo głębokie są myśli Twoje.",
+						"Ks: Człowiek nierozumny ich nie zna.",
+						"Zb: A głupi nie pojmuje tego. (Ps 92)"
+					]
+				}
+			],
+			"GRADUALE": "Gotowe jest serce moje, Boźe, gotowe jest serce moje, będę śpiewał i grał. Alleluja! (Ps 57,8)",
+			"ANTYFONA": [
+				"Ks: Dobrze jest dziękować Panu. Alleluja!",
+				"Zb: I opiewać imię Twe, o Najwyższy! Alleluja! (Ps 92,2)"
+			]
+		},
+		{
+			"NR": "23",
+			"TYTUL": "Ostatnia Niedziela po Epifanii",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Blask Pana jest jak światłość, promienie wychodzą z Jego rąk. Alleluja!",
+						"Zb: Tam ukryta jest Jego moc. Alleluja! (Ha 3,4)",
+						"Ks: Pan jest Królem, niech się raduje ziemia. Alleluja!",
+						"Zb: Niech się weselą mnogie wyspy! Alleluja!",
+						"Ks: Obłok i ciemność wokół Niego. Alleluja!",
+						"Zb: Sprawiedliwość i prawo są podstawą tronu Jego. Alleluja! (Ps 97)"
+					]
+				}
+			],
+			"GRADUALE": "Panie, u Ciebie jest źródło życia, w światłości Twojej oglądamy światłość. Alleluja! (Ps 36, I O)",
+			"ANTYFONA": [
+				"Ks: Dobrze jest dziękować Panu. Alleluja!",
+				"Zb: I opiewać imię Twe, o Najwyższy! Alleluja! (Ps 92,2)"
+			]
+		},
+		{
+			"NR": "24",
+			"TYTUL": "3. Niedziela przed Postem (Czasem Pasyjnym) Septuagesimae",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Niech będzie błogosławione imię Boga od wieków na wieki.",
+						"Zb: Albowiem mądrość i moc należą do Niego. (Dn 2,20)",
+						"Ks: Panie, jak wielka jest dobroć Twoja.",
+						"Zb: Którą zachowałeś dla tych, którzy się Ciebie boją.",
+						"Ks: Zaiste wysłuchałeś głosu błagania mego.",
+						"Zb: Kiedy wołałem do Ciebie. (Ps 31)"
+					]
+				}
+			],
+			"GRADUALE": "Błogosławiony Pan niech będzie, gdyż okazał mi cudowną łaskę swoją w warownym grodzie. Alleluja! (Ps 31,22)",
+			"ANTYFONA": [
+				"Ks: Miłuję Cię, Panie, mocy moja! Alleluja!",
+				"Zb: Pan skałą i twierdzą moją, i wybawieniem moim. Alleluja! (Ps 18,2-3)"
+			]
+		},
+		{
+			"NR": "25",
+			"TYTUL": "2. Niedziela przed Postem (Czasem Pasyjnym) Sexagesimae",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, Słowo Twoje trwa na wieki.",
+						"Zb: Niewzruszone jak niebiosa. (Ps 119,89)",
+						"Ks: Panie, Słowo Twoje jest pochodnią nogom moim.",
+						"Zb: I światłością ścieżkom moim.",
+						"Ks: Wesprzyj mnie według obietnicy swojej, abym żył.",
+						"Zb: Nie dopuść, abym doznał zawodu w nadziei mojej. (Ps 119)"
+					]
+				}
+			],
+			"GRADUALE": "Panie, Słowo Twoje jest pochodnią nogom moim I i światłością ścieżkom moim. Alleluja! (Ps 119, 105)",
+			"ANTYFONA": [
+				"Ks: Tobie złożę ofiarę dziękczynną! Alleluja!",
+				"Zb: I będę wzywał imienia Pana. Alleluja! (Ps 116, 17)"
+			]
+		},
+		{
+			"NR": "26",
+			"TYTUL": "Niedziela Przedpostna Estomihi",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Bądź mi skałą obronną.",
+						"Zb: Grodem warownym, by mnie wybawić.",
+						"Ks: Boś Ty skałą moją i twierdzą moją.",
+						"Zb: Przez wzgląd na imię Twoje będziesz mnie wiódł i prowadził.",
+						"Ks: Panie, w Tobie szukałem schronienia, obym nigdy nie doznał wstydu!",
+						"Zb: Przez sprawiedliwość swoją mnie wybaw! (Ps 31)"
+					]
+				}
+			],
+			"GRADUALE": "W Tobie, Panie, szukałem schronienia, obym nigdy nie doznał wstydu! I Przez sprawiedliwość swoją wybaw mnie! Alleluja! (Ps 31,2)",
+			"ANTYFONA": [
+				"Ks: W ręce Twoje polecam ducha mego! Alleluja!",
+				"Zb: Odkupiłeś mnie, Panie, Boże wierny. Alleluja! (Ps 31,6)"
+			]
+		},
+		{
+			"NR": "27",
+			"TYTUL": "Dzień Pokuty - Środa Popielcowa",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, nie pozywaj na sąd sługi swego.",
+						"Zb: Gdyż nikt z żyjących nie okaże się sprawiedliwym przed Tobą!",
+						"Ks: Panie, wysłuchaj modlitwy mojej.",
+						"Zb: Usłysz błaganie moje!",
+						"Ks: Przez wierność swoją wysłuchaj mnie w sprawiedliwaści swojej.",
+						"Zb: Nasyć nas o świcie łaską swoją. (Ps 143,1-10)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Pamiętaj, że jesteś prochem, ",
+						"Zb: I w proch się obrócisz! (1Mż3,19)",
+						"Ks: Przybliżyło się Królestwo Boże,",
+						"Zb: U pamiętaj cie się i wierzcie Ewangelii! (Mk 1, 15)",
+						"Ks: Zmiłuj się nad swoim ludem, Panie!",
+						"Zb: I nie wystawiaj na hańbę swojego dziedzictwa! (Jl 2,17)"
+					]
+				}
+			],
+			"GRADUALE": "Ofiarą Bogu miłą jest duch skruszony sercem skruszonym i zgnębionym nie pogardzisz Boże. (Ps 51,19)",
+			"ANTYFONA": [
+				"Ks: Panie, wskaż mi drogę, którą mam iść,",
+				"Zb: Bo ku Tobie podnoszę duszę moją. (Ps 143,10)"
+			]
+		},
+		{
+			"NR": "28",
+			"TYTUL": "Tygodniowe nabożeństwo pasyjne po Środzie Popielcowej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, nie karć mnie w gniewie swoim.",
+						"Zb: Zmiłuj się nade mną, Panie, bom jest słaby.",
+						"Ks: Uzdrów mnie, Panie, bo strwożyły się kości moje!",
+						"Zb: Dusza moja bardzo się zatrwożyła.",
+						"Ks: Odwróć się, Panie, ratuj duszę moją,",
+						"Zb: Zbaw mnie przez łaskę swoją! (Ps 6,1-6)"
+					]
+				}
+			],
+			"ANTYFONA": [
+				"Ks: Chrystus wzgardzony był i opuszczony przez ludzi,",
+				"Zb: Mąż boleści, doświadczony w cierpieniu. (Iz 53,3)"
+			]
+		},
+		{
+			"NR": "29",
+			"TYTUL": "1. Niedziela Postu (Pasyjna) lnvocavit",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wzywać mnie będzie, a Ja go wysłucham,",
+						"Zb: Będę z nim w niedoli, wyrwę go i czcią obdarzę,",
+						"Ks: Kto mieszka pod osłoną Najwyższego,",
+						"Zb: Kto przebywa w cieniu Wszechmocnego,",
+						"Ks: Ten mówi do Pana: Ucieczko moja i twierdzo moja,",
+						"Zb: Boże mój, któremu ufam. (Ps 91)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Wzywać mnie będzie, a Ja go wysłucham,",
+						"Zb: Będę z nim w niedoli, wyrwę go i czcią obdarzę,",
+						"Ks: Albowiem aniołom swoim polecił,",
+						"Zb: Aby cię strzegli na wszystkich drogach twoich.",
+						"Ks: Na rękach nosić cię będą,",
+						"Zb: Byś nie uraził o kamień nogi swojej. (Ps 91)"
+					]
+				}
+			],
+			"GRADUALE": "Piórami swymi cię okryje. I pod skrzydłami jego znajdziesz schronienie. (Ps 91,4)",
+			"ANTYFONA": [
+				"Ks: Nie samym chlebem żyje człowiek,",
+				"Zb: Ale każdym słowem, które pochodzi z ust Bożych. (Mt4,4)"
+			]
+		},
+		{
+			"NR": "30",
+			"TYTUL": "Tygodniowe nabożeństwo pasyjne po Niedzieli lnvocavit",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosławiony ten, któremu odpuszczono występek,",
+						"Zb: Którego grzech został zakryty!",
+						"Ks: Grzech mój wyznałem Tobie!",
+						"Zb: I winy mojej nie ukryłem.",
+						"Ks: Rzekłem: wyznam występki moje Panu;",
+						"Zb: Wtedy Ty odpuściłeś winę grzechu mego. (Ps 32)"
+					]
+				}
+			],
+			"ANTYFONA": [
+				"Ks: Chrystus nasze choroby nosił, nasze cierpienia wziął na siebie.",
+				"Zb: On zraniony jest za występki nasze. (Iz 53,4.5)"
+			]
+		},
+		{
+			"NR": "31",
+			"TYTUL": "2. Niedziela Postu (Pasyjna) Reminiscere",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Pamiętaj, Panie, o miłosierdziu i o łasce swojej,",
+						"Zb: Gdyż są one od wieków! (Ps 25,6)",
+						"Ks: Panie, nakłoń ucha swego i wysłuchaj mnie, bom ubogi i nędzny!",
+						"Zb: Boże mój, wybaw sługę swego, który ufa Tobie!",
+						"Ks: Powstań, Panie! Boże, podnieś rękę swoją,",
+						"Zb: Nie zapominaj ubogich! (Ps 1O,12)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Pamiętaj, Panie, o miłosierdziu i o łasce swojej,",
+						"Zb: Gdyż są one od wieków! (Ps 25,6)",
+						"Ks: Westchnień biedaków wysłuchujesz, Panie;",
+						"Zb: Utwierdzasz ich serca, nastawiasz uważnie ucha swego,",
+						"Ks: Aby bronić prawa sieroty i uciśnionego,",
+						"Zb: By człowiek z ziemi wzięty nie wzbudzał już postrachu. (Ps 10,17.18)"
+					]
+				}
+			],
+			"GRADUALE": "Pan zwiastuje pokój ludowi swemu i wiernym swoim. (Ps 85,9)",
+			"ANTYFONA": [
+				"Ks: Wzywaj mnie w dniu niedoli,",
+				"Zb: Wybawię cię, a ty mnie uwielbisz! (Ps 50,15)"
+			]
+		},
+		{
+			"NR": "32",
+			"TYTUL": "Tygodniowe nabożeństwo pasyjne po Niedzieli Reminiscere",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie! Nie karz mnie w gniewie swoim.",
+						"Zb: I nie karć mnie w zapalczywości swojej!",
+						"Ks: Nie opuszczaj mnie, Panie!",
+						"Zb: Boże mój! Nie oddalaj się ode mnie!",
+						"Ks: Śpiesz mi z pomocą,",
+						"Zb: Panie, zbawienie moje! (Ps 38)"
+					]
+				}
+			],
+			"ANTYFONA": [
+				"Ks: Chrystus ukarany został dla naszego zbawienia.",
+				"Zb: A Jego ranami jesteśmy uleczeni. (Iz 53,5b)"
+			]
+		},
+		{
+			"NR": "33",
+			"TYTUL": "3. Niedziela Postu (Pasyjna) Oculi",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Oczy moje zawsze patrzą na Pana,",
+						"Zb: Bo On wyswobadza z sieci nogi moje. (Ps 25, 15)",
+						"Ks: Oczy Pańskie patrzą na sprawiedliwych,",
+						"Zb: A uszy Jego ich krzyk słyszą! (Ps 34,16)",
+						"Ks: Bliski jest Pan tym, których serce jest złamane,",
+						"Zb: A wybawia utrapionych na duchu. (Ps 34, 19)"
+					]
+				}
+			],
+			"GRADUALE": "Niech wesprze mnie ręka Twoja, I gdyż wybrałem przykazania Twoje. (Ps 119,173)",
+			"ANTYFONA": [
+				"Ks: Pan wyzwala duszę sług swoich",
+				"Zb: I nie będą ukarani ci, którzy Mu ufają. (Ps 34,23)"
+			]
+		},
+		{
+			"NR": "34",
+			"TYTUL": "Tygodniowe nabożeństwo pasyjne po Niedzieli Oculi",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Zmiłuj się nade mną, Boże, według łaski swojej,",
+						"Zb: Według wielkiej litości swojej zgładź występki moje!",
+						"Ks: Obmyj mnie zupełnie z winy mojej",
+						"Zb: I oczyść mnie z grzechu mego!",
+						"Ks: Serce czyste stwórz we mnie, o Boże,",
+						"Zb: A ducha prawego odnów we mnie! (Ps 51,3-4.12)"
+					]
+				}
+			],
+			"ANTYFONA": [
+				"Ks: Wszyscy zbłądziliśmy, jak owce,",
+				"Zb: A Pan Jego dotknął karą za winę nas wszystkich. (Iz 53,6)"
+			]
+		},
+		{
+			"NR": "35",
+			"TYTUL": "4. Niedziela Postu (Pasyjna) Laetare",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Radujcie się z Jeruzalemem wszyscy, którzy je miłujecie!",
+						"Zb: Wykrzykujcie radośnie z nim wszyscy! (Iz 66,10)",
+						"Ks: Błogosławiony człowiek, który ma siłę swoją w Tobie,",
+						"Zb: Gdy o pielgrzymkach myśli! (Ps 84,6)",
+						"Ks: Albowiem słońcem i tarczą jest Pan, Bóg,",
+						"Zb: Łaski i chwały Pan udziela. (Ps 84, 12)"
+					]
+				}
+			],
+			"GRADUALE": "Pociechy Twoje rozweselają duszę moją w licznych utrapieniach serca mego. (Ps 94,19)",
+			"ANTYFONA": [
+				"Ks: Albowiem lepszy jest dzień w przedsionkach Twoich,",
+				"Zb: Niż gdzie indziej tysiąc. (Ps 84, 11)"
+			]
+		},
+		{
+			"NR": "36",
+			"TYTUL": "Tygodniowe nabożeństwo pasyjne po Niedzieli Laetare",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Z głębokości wołam do Ciebie, Panie!",
+						"Zb: Panie, wysłuchaj głosu mojego!",
+						"Ks: Panie, jeżeli będziesz zważał na winy,",
+						"Zb: Panie, któż się ostoi?",
+						"Ks: U Ciebie jest odpuszczenie,",
+						"Zb: Aby się Ciebie bano."
+					]
+				}
+			],
+			"ANTYFONA": [
+				"Ks: Sprawiedliwy mój sługa wielu usprawiedliwi (Ps 130)",
+				"Zb: I sam ich winy poniesie. (Iz 53,II)"
+			]
+		},
+		{
+			"NR": "37",
+			"TYTUL": "5. Niedziela Postu (Pasyjna) Judica",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Bądź sędzią moim, Boże,",
+						"Zb: Wybaw mnie od ludzi fałszywych i niegodziwych!",
+						"Ks: Ześlij światło i prawdę swoją, niech mnie prowadzą,",
+						"Zb: Niech mnie wprowadzą na górę Twą świętą.",
+						"Ks: Ufaj Bogu, gdyż jeszcze sławić Go będę:",
+						"Zb: On jest zbawieniem moim i Bogiem moim! (Ps 43)"
+					]
+				}
+			],
+			"GRADUALE": "Pan jest mocą ludu swego i twierdzą zbawienia pomazańca swego. (Ps 28,8)",
+			"ANTYFONA": [
+				"Ks: Chrystus umiłował Kościół",
+				"Zb: I wydał zań samego siebie. (Ef 5,25)"
+			]
+		},
+		{
+			"NR": "38",
+			"TYTUL": "Tygodniowe nabożeństwo pasyjne po Niedzieli Judica",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Boże mój, Boże mój, czemuś mnie opuścił?",
+						"Zb: Czemuś tak daleki od wybawienia mego?",
+						"Ks: Nie oddalaj się ode mnie, bo niedola bliska,",
+						"Zb: Bo nie ma nikogo, kto by pomógł!",
+						"Ks: Przebodli ręce i nogi moje.",
+						"Zb: Ty zaś, Panie, się nie oddalaj! (Ps 22)"
+					]
+				}
+			],
+			"ANTYFONA": [
+				"Ks: Chrystus poniósł grzech wielu",
+				"Zb: I wstawił się za przestępcami. (Iz 53,12)"
+			]
+		},
+		{
+			"NR": "39",
+			"TYTUL": "6. Niedziela Postu (Pasyjna) Palmowa",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Hosanna Synowi Dawidowemu! Błogosławiony, który przychodzi w i mieniu Pańskim.",
+						"Zb: Hosanna na wysokościach! (Mt 21,9)",
+						"Ks: Wysłuchaj mnie, Panie, bo dobrą jest łaska Twoja,",
+						"Zb: Według wielkiego miłosierdzia Twego wejrzyj na mnie!",
+						"Ks: Niech ujrzą to pokorni i się rozradują!",
+						"Zb: Wy, co szukacie Boga, niech ożyje serce wasze! (Ps 69,17.33)"
+					]
+				}
+			],
+			"GRADUALE": "Pan wybawił pomazańca swego (...) chlubimy się imieniem Pana, Boga naszego. (Ps 20,7a.8b)",
+			"ANTYFONA": [
+				"Ks: Chrystus umiłował Kościół,",
+				"Zb: I wydał zań samego siebie. (Ef 5,25)"
+			]
+		},
+		{
+			"NR": "40",
+			"TYTUL": "Wielki Poniedziałek, Wielki Wtorek, Wielka Środa",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, wysłuchaj modlitwy mojej",
+						"Zb: I wołanie moje niech dojdzie do Ciebie.",
+						"Ks: Nie ukrywaj oblicza swego przede mną.",
+						"Zb: W dniu niedoli mojej, nakłoń ku mnie swe ucho.",
+						"Ks: Codziennie łżą mnie wrogowie moi.",
+						"Zb: Złorzeczą mi ci, którzy przeciwko mnie szaleją. (Ps 102)"
+					]
+				}
+			],
+			"ANTYFONA": [
+				"Ks: Wyrwano Go z krainy żyjących,",
+				"Zb: Za występek mojego ludu śmiertelnie został zraniony. (Iz 53,8)",
+				"Ks: Godzien jest ten Baranek zabity wziąć moc i bogactwo, i mądrość, i siłę.",
+				"Zb: I cześć, i chwałę, i błogosławieństwo. (Obj 5, 12)"
+			]
+		},
+		{
+			"NR": "41",
+			"TYTUL": "Wielki Czwartek Dzień Ustanowienia Wieczerzy Pańskiej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, kto spożywa Ciało Twoje i pije Krew Twoją,",
+						"Zb: Ten ma żywot wieczny! (J 6,54)",
+						"Ks: Pamiętnymi uczyniłeś cuda swoje;",
+						"Zb: Łaskawy i litościwy jesteś, Panie!",
+						"Ks: Dajesz pożywienie tym, którzy się Ciebie boją;",
+						"Zb: Na wieki pamiętasz o swoim przymierzu! (Ps 111,4-5)"
+					]
+				}
+			],
+			"GRADUALE": "Po tym wszyscy poznają, żeście uczniami moimi, jeśli miłość wzajemną mieć będziecie! (J 13,35)",
+			"ANTYFONA": [
+				"Ks: Ilekroć ten chleb jecie, a z kielicha tego pijecie.",
+				"Zb: Śmierć Pańską zwiastujemy, aż przyjdzie! (1 Kor 11,26)",
+				"Ks: Nowe przykazanie daję wam, abyście się wzajemnie miłowali!",
+				"Zb: Jak Ja was umiłowałem; abyście się i wy wzajemnie miłowali! (J 13,34)"
+			]
+		},
+		{
+			"NR": "42",
+			"TYTUL": "Wielki Piątek",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Oto Baranek Boży,",
+						"Zb: Który gładzi grzech świata! (J l,29b)",
+						"Ks: Boże mój, Boże mój, czemuś mnie opuścił?",
+						"Zb: Czemuś tak daleki od wybawienia mego? (Ps 22,2)",
+						"Ks: Nie oddalaj się, Panie!",
+						"Zb: Mocy moja, pośpiesz mi z pomocą! (Ps 22,20)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Niech na imię Jezusa zgina się wszelkie kolano na niebie i na ziemi, i pod ziemią.",
+						"Zb: Bo Pan uniżył samego siebie i był posłuszny aż do śmierci krzyżowej. (Flp 2,8.10)",
+						"Ks: Boże mój, nie oddalaj się ode mnie, bo niedola bliska,",
+						"Zb: Bo nie ma nikogo, kto by pomógł!",
+						"Ks: Osaczyła mnie gromada złośników,",
+						"Zb: Przebodli ręce i nogi moje. (Ps 22, 12.17)"
+					]
+				}
+			],
+			"GRADUALE": "Chrystus cierpiał za was, zostawiając wam przykład, abyście wstępowali w Jego ślady. (1 P 2,21)",
+			"IMPROPERIA": [
+				"Ks: Ludu mój, cóżem ci uczynił, a w czymem ci się uprzykrzył? Daj świadectwo przeciwko mnie. Wszakżem cię wywiódł z ziemi egipskiej, a tyś biczował Zbawiciela swego. Z domu niewolników odkupiłem cię, a tyś do krzyża przybił Zbawiciela swego.",
+				"Zb: Święty Boże, Święty Mocny, Święty a Nieśmiertelny, zmiłuj się nad nami!",
+				"Ks: Faraona i jazdę jego do morza wrzuciłem, a tyś mnie podał najwyższym kapłanom i poganom. Karmiłem cię manną i poiłem wodą ze skały na puszczy, a tyś mnie poił żółcią i octem.",
+				"Zb: Święty Boże, Święty Mocny, Święty a Nieśmiertelny, zmiłuj się nad nami!",
+				"Ks: Ludu mój, cóżem ci uczynił, a w czymem ci się uprzykrzył? Daj świadectwo przeciwko mnie.",
+				"Zb: Święty Boże, Święty Mocny, Święty a Nieśmiertelny, zmiłuj się nad nami!"
+			],
+			"ANTYFONA": [
+				"Ks: Ilekroć ten chleb jecie, a z kielicha tego pijecie,",
+				"Zb: Śmierć Pańską zwiastujemy, aż przyjdzie! (I Kor 11,26)",
+				"Ks: Godzien jest ten Baranek zabity wziąć moc i bogactwo, i mądrość, i siłę.",
+				"Zb: I cześć, i chwałę, i błogosławieństwo. (Obj 5, 12)"
+			]
+		},
+		{
+			"NR": "43",
+			"TYTUL": "Wielka Sobota",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, otwórz groby i wyprowadź z nich lud swój.",
+						"Zb: I tchnij w nas swoje ożywcze tchnienie, a ożyjemy. (Ez 37,12)",
+						"Ks: Dusza moja syta jest cierpień,",
+						"Zb: A życie moje bliskie jest krainy umarłych,",
+						"Ks: Zaliczono mnie do tych, co zstępują do grobu,",
+						"Zb: Stałem się jak człowiek bez siły. (Ps 88,4.5)"
+					]
+				}
+			],
+			"GRADUALE": "Nie umrę, ale żył będę I i opowiadać będę dzieła Pana. (Ps 118,17)",
+			"ANTYFONA": [
+				"Ks: Nie umrę, ale żył będę.",
+				"Zb: I opowiadać będę dzieła Pana."
+			]
+		},
+		{
+			"NR": "44",
+			"TYTUL": "Wielkanoc",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks:Wspomożenie nasze niech będzie w imieniu Pańskim.",
+						"Zb: Który stworzył niebo i ziemię.",
+						"Ks: Panie, racz otworzyć wargi nasze!",
+						"Zb: A usta nasze opowiadać będą chwałę Twoją",
+						"Ks: Panie, Boże, z pomocą swoją nie odwłaczajże.",
+						"Zb: O Panie, abyś nam dał ratunek, pośpiesz się!",
+						"Ks: Chwała Ojcu i Synowi, i Duchowi świętemu.",
+						"Zb: Jak było od początku, teraz i zawsze, aż na wieki wieków, Amen. Alleluja! Alleluja!"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Chrystus wstał z martwych. Alleluja!",
+						"Zb: On wstał prawdziwie. Alleluja! (Łk 24,6a.34a)",
+						"Ks: Prawica Pana podniesiona. Alleluja!",
+						"Zb: Prawica Pana odnosi zwycięstwo! Alleluja!",
+						"Ks: Nie umrę, ale będę żył. Alleluja!",
+						"Zb: I opowiadać będę dzieła Pana. Alleluja! (Ps 118)"
+					]
+				}
+			],
+			"GRADUALE": "Oto dzień, który Pan uczynił, weselmy się i radujmy się w nim. Alleluja! (Ps 118,24)",
+			"ANTYFONA": [
+				"Ks: Chrystus śmiercią śmierć zniszczył. Alleluja!",
+				"Zb: A żywot i nieśmiertelność na jaśnię wywiódł. Alleluja! (2 Tm J,10)"
+			]
+		},
+		{
+			"NR": "45",
+			"TYTUL": "Poniedziałek Wielkanocny i Tydzień Wielkanocny",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Chrystus wstał z martwych. Alleluja!",
+						"Zb: On wstał prawdziwie. Alleluja! (Łk 24,6a.34a)",
+						"Ks: Kamień, który odrzucili budowniczowie. Alleluja!",
+						"Zb: Stał się kamieniem węgielnym. Alleluja!",
+						"Ks: Oto dzień, który Pan uczynił. Alleluja!",
+						"Zb: Weselmy się i radujmy się w nim. Alleluja! (Ps 118)"
+					]
+				}
+			],
+			"GRADUALE": "Oto dzień, który Pan uczynił, weselmy się i radujmy się w nim. Alleluja! (Ps 118,24)",
+			"ANTYFONA": [
+				"Ks: Chrystus śmierć śmiercią znisz czył. Alleluja!",
+				"Zb: A żywot i nieśmiertelnoś ć na jaśnię wywiódł. Alleluja! (2 Tm l,10)"
+			]
+		},
+		{
+			"NR": "46",
+			"TYTUL": "1. Niedziela po Wielkanocy Quasimodogeniti",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Jako nowonarodzone niemowlęta, zapragnijcie niesfałszowanego duchowego mleka. Alleluja!",
+						"Zb: Abyście przez nie wzrastali ku zbawieniu. Alleluja! (1 P 2,2)",
+						"Ks: Albowiem uchroniłeś duszę moją od śmierci. Alleluja!",
+						"Zb: Oczy moje od łez, nogi moje od upadku. Alleluja!",
+						"Ks: Wierzę nawet wtedy. Alleluja!",
+						"Zb: Gdy mówię: Jestem bardzo utrapiony. Alleluja! (Ps 116)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Dlatego, że mnie ujrzałeś, uwierzyłeś. Alleluja!",
+						"Zb: Błogosławieni, którzy nie widzieli, a uwierzyli. Alleluja! (J 20,29)",
+						"Ks: Będę chodził przed Panem. Alleluja!",
+						"Zb: W krainie żyjących. Alleluja!",
+						"Ks: Czym odpłacę Panu za wszystkie dobrodziejstwa, które mi wyświadczył? Alleluja!",
+						"Zb: Podniosę kielich zbawienia i wzywać będę imienia Pana. Alleluja! (Ps 116)"
+					]
+				}
+			],
+			"GRADUALE": "Wielkich rzeczy dokonał Pan z nami, przeto byliśmy weseli. Alleluja! (Ps 126,3)",
+			"ANTYFONA": [
+				"Ks: Chrystus wstał z martwych. Alleluja!",
+				"Zb: On wstał prawdziwie. Alleluja! (Łk 24,6a.34a)"
+			]
+		},
+		{
+			"NR": "47",
+			"TYTUL": "2. Niedziela po Wielkanocy Misericordias Domini",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Pełna jest ziemia łaski Pana. Alleluja!",
+						"Zb: Błogosławiony naród, którego Bogiem jest Pan. Alleluja! (Ps 33,5b.12a)",
+						"Ks: Pan jest pasterzem moim! Alleluja!",
+						"Zb: Niczego mi nie braknie. Alleluja!",
+						"Ks: Na niwach zielonych pasie mnie. Alleluja!",
+						"Zb: Nad wody spokojne prowadzi mnie. Alleluja! (Ps 23)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Pan jest pasterzem moim! Alleluja!",
+						"Zb: Niczego mi nie braknie. Alleluja!",
+						"Ks: Duszę moją pokrzepia, wiedzie mnie ścieżkami sprawiedliwości. Alleluja!",
+						"Zb: Ze względu na imię swoje. Alleluja",
+						"Ks: Choćbym nawet szedł ciemną doliną. Alleluja!",
+						"Zb: Zła się nie ulęknę, boś Ty ze mną. Alleluja! (Ps 23)"
+					]
+				}
+			],
+			"GRADUALE": "On nas uczynił i do niego należymy, myśmy ludem Jego i trzodą pastwiska Jego. Alleluja! (Ps 100,3bc)",
+			"ANTYFONA": [
+				"Ks: Zastawiasz przede mną stół wobec nieprzyjaciół moich. Alleluja!",
+				"Zb: Kielich mój przelewa się! Alleluja!",
+				"Ks: Pan jest Bogiem! On nas uczynił i do Niego należymy. Alleluja!",
+				"Zb: Myśmy ludem Jego i trzodą pastwiska Jego. Alleluja! (Ps 100,3)"
+			]
+		},
+		{
+			"NR": "48",
+			"TYTUL": "3. Niedziela po Wielkanocy Jubilate",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Radośnie wysławiajcie Boga, wszystkie ziemie! Alleluja!",
+						"Zb: Śpiewajcie Mu pieśń pochwalną! Alleluja!",
+						"Ks: Pójdźcie i oglądajcie dzieła Boże. Alleluja!",
+						"Zb: Przedziwnymi okazują się pośród synów ludzkich! Alleluja!",
+						"Ks: Panuje w mocy swej na wieki. Alleluja!",
+						"Zb: Oczy Jego patrzą na narody. Alleluja! (Ps 66)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Radośnie wysławiajcie Boga, wszystkie ziemie! Alleluja!",
+						"Zb: Śpiewajcie Mu pieśń pochwalną! Alleluja!",
+						"Ks: Błogosławcie, narody, Boga naszego. Alleluja!",
+						"Zb: I ogłaszajcie głośno chwałę Jego! Alleluja!",
+						"Ks: Zachował przy życiu duszę naszą. Alleluja!",
+						"Zb: A nie pozwolił zachwiać się nodze naszej. Alleluja!"
+					]
+				}
+			],
+			"GRADUALE": "Alleluja. Chwalcie Boga w świątyni Jego, niech wszystko, co żyje, chwali Pana! Alleluja! (Ps 150, la.6)",
+			"ANTYFONA": [
+				"Ks: Panie Jezu, daj nam zrozumieć Pisma i niech pała serce nasze. Alleluja!",
+				"Zb: Gdy do nas mówisz. Alleluja! (Łk 24,32)",
+				"Ks: Panie Jezu, spraw, abyśmy Cię poznali. Alleluja!",
+				"Zb: Po łamaniu chleba! Alleluja! (Łk 24,35)"
+			]
+		},
+		{
+			"NR": "49",
+			"TYTUL": "4. Niedziela po Wielkanocy Cantate",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Śpiewajcie Panu pieśń nową. Alleluja!",
+						"Zb: Bo cuda uczynił! Alleluja!",
+						"Ks: Prawica i Jego święte ramię przyniosły Mu zwycięstwo. Alleluja!",
+						"Zb: Pan objawił zbawienie swoje. Alleluja!",
+						"Ks: Wznoście Panu okrzyki radosne wszystkie ziemie. Alleluja!",
+						"Zb: Weselcie się, cieszcie się i grajcie! Alleluja!"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Śpiewajcie Panu pieśń nową. Alleluja!",
+						"Zb: Bo cuda uczynił! Alleluja! (Ps 98, I b-4)",
+						"Ks: Grajcie Panu na cytrze i głośno śpiewajcie! Alleluja!",
+						"Zb: Na trąbach i głośnych rogach, grajcie przed Królem, Panem! Alleluja!",
+						"Ks: Niech szumi morze i to, co je napełnia. Alleluja!",
+						"Zb: Świat i jego mieszkańcy! Alleluja! (Ps 98)"
+					]
+				}
+			],
+			"GRADUALE": "Radośnie wysławiajcie Boga, wszystkie ziemie! I Opiewajcie chwałę Jego imienia, śpiewajcie mu pieśń Jego imienia, śpiewajcie Mu pieśń pochwalną. Alleluja! (Ps 66,1.2)",
+			"ANTYFONA": [
+				"Ks: Chrystus wstał z martwych. Alleluja!",
+				"Zb: On wstał prawdziwie. Alleluja! (Łk 24,6a.34a)"
+			]
+		},
+		{
+			"NR": "50",
+			"TYTUL": "5. Niedziela po Wielkanocy- Rogate",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Proście, a weźmiecie! Alleluja!",
+						"Zb: Aby radość wasza była zupełna. Alleluja! (J 16,24b)",
+						"Ks: Pójdźcie, radośnie śpiewajmy Panu. Alleluja!",
+						"Zb: Wznośmy okrzyki radosne skale zbawienia naszego! Alleluja!",
+						"Ks: Pójdźmy przed oblicze Jego z dziękczynieniem. Alleluja!",
+						"Zb: Wykrzykujmy Mu radośnie w pieśniach. Alleluja! (Ps 95,1-2)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Błogosławiony Bóg, który nie odrzucił modlitwy mojej. Alleluja!",
+						"Zb: I nie odmówił mi swej łaski! Alleluja!",
+						"Ks: Wielkim Bogiem jest Pan. Alleluja!",
+						"Zb: Królem wielkim nad wszystkich bogów. Alleluja!",
+						"Ks: Pójdźcie, pokłońmy się i padnijmy na twarz! Alleluja!",
+						"Zb: Klęknijmy przed Panem, który nas uczynił! Alleluja! (Ps 95,1-7)"
+					]
+				}
+			],
+			"GRADUALE": "Błogosławiony Bóg, który nie odrzucił modlitwy mojej i nie odmówił mi swej łaski! Alleluja! (Ps 66,20)",
+			"ANTYFONA": [
+				"Ks: Obyście dziś głos jego usłyszeli. Alleluja!",
+				"Zb: Nie zatwardzajcie serca waszego. Alleluja! (Ps 95, 7.8)"
+			]
+		},
+		{
+			"NR": "51",
+			"TYTUL": "Uroczystość Wniebowstąpienia Pańskiego",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Mężowie galilejscy, czemu stoicie, patrząc w niebo? Alleluja!",
+						"Zb: Jezus, który do nieba od was został wzięty w górę, przyjdzie znowu. Alleluja! (Dz Ul)",
+						"Ks: Wszystkie narody, klaskajcie w dłonie! Alleluja!",
+						"Zb: Wykrzykujcie Bogu głosem radosnym. Alleluja!",
+						"Ks: Bóg jest Królem nad narodami. Alleluja!",
+						"Zb: Bóg siedzi na swym tronie świętym. Alleluja! (Ps 47)"
+					]
+				}
+			],
+			"GRADUALE": "Rzeki Pan Panu memu: Siądź po prawicy mojej, I aż położę nieprzyjaciół twoich jako podnóżek pod nogi twoje! Alleluja! (Ps 110, I)",
+			"ANTYFONA": [
+				"Ks: Niechaj wszelki język wyznaje, że Jezus Chrystus jest Panem. Alleluja!",
+				"Zb: Ku chwale Boga Ojca. Alleluja! (Flp 2, 11)",
+				"Ks: Chrystus jest z nami po wszystkie dni. Alleluja!",
+				"Zb: Aż do skończenia świata. Alleluja! (Mt 28,20b)"
+			]
+		},
+		{
+			"NR": "52",
+			"TYTUL": "6. Niedziela po Wielkanocy (Niedziela po Wniebowstąpieniu Pańskim) - Exaudi",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Słuchaj, Panie, głosu mego, gdy wołam. Alleluja!",
+						"Zb: Zmiłuj się nade mną i wysłuchaj mnie! Alleluja!",
+						"Ks: Pan światłością moją i zbawieniem moim. Alleluja!",
+						"Zb: Kogóż bać się będę? Alleluja!",
+						"Ks: Pan ochroną życia mego. Alleluja!",
+						"Zb: Kogóż mam się lękać? Alleluja!"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Z natchnienia Twego mówi serce moje: Szukajcie oblicza mego! Alleluja!",
+						"Zb: Przeto oblicza Twego szukam, Panie! Alleluja!",
+						"Ks: Nie ukrywaj oblicza swego przede mną! Alleluja!",
+						"Zb: Nie odtrącaj w gniewie sługi swego! Alleluja!",
+						"Ks: Ty jesteś pomocą moją: nie odrzucaj mnie. Alleluja!",
+						"Zb: I nie opuszczaj mnie, Boże, zbawienia mego! Alleluja!"
+					]
+				}
+			],
+			"GRADUALE": "Bóg jest Królem nad narodami, Bóg siedzi na swym tronie świętym. Alleluja! (Ps 47,9)",
+			"ANTYFONA": [
+				"Ks: Niechaj wszelki język wyznaje, że Jezus Chrystus jest Panem. Alleluja!",
+				"Zb: Ku chwale Boga Ojca. Alleluja! (Flp 2,11)"
+			]
+		},
+		{
+			"NR": "53",
+			"TYTUL": "Święto Zesłania Ducha Świętego - niedziela",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks:Wspomożenie nasze niech będzie w imieniu Pańskim.",
+						"Zb: Który stworzył niebo i ziemię.",
+						"Ks: Panie, racz otworzyć wargi nasze!",
+						"Zb: A usta nasze opowiadać będą chwałę Twoją",
+						"Ks: Panie, Boże, z pomocą swoją nie odwłaczajże.",
+						"Zb: O Panie, abyś nam dał ratunek, pośpiesz się!",
+						"Ks: Chwała Ojcu i Synowi, i Duchowi świętemu.",
+						"Zb: Jak było od początku, teraz i zawsze, aż na wieki wieków, Amen. Alleluja! Alleluja!"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Miłość Boża rozlana jest w sercach naszych przez Ducha Świętego. Alleluja!",
+						"Zb: Który nam jest dany. Alleluja! (Rz 5,5)",
+						"Ks: Oto dzień, który Pan uczynił. Alleluja!",
+						"Zb: Weselmy się i radujmy się w nim. Alleluja!",
+						"Ks: Błogosławimy wam z domu Pańskiego. Alleluja!",
+						"Zb: Błogosławiony, który przychodzi w imię Pana! Alleluja!"
+					]
+				}
+			],
+			"GRADUALE": [
+				"Boże! Ty wydajesz tchnienie swoje, a stworzone bywają, i odnawiasz oblicze ziemi. Alleluja! (Ps 104,30)",
+				"Alleluja! Przyjdź, Duchu Święty, napełnij serca swoich wiernych i zapał w nich ogień swojej miłości. Alleluja!"
+			],
+			"ANTYFONA": [
+				"Ks: Wyleję mojego Ducha na wszelkie ciało. Alleluja!",
+				"Zb: Na sługi i służebnice wyleję mojego Ducha. Alleluja! (Jl 3,1.2)",
+				"Ks: Wszyscy zostali napełnieni Duchem Świętym. Alleluja!",
+				"Zb: I głosili wielkie dzieła Boże. Alleluja! (Dz 2,4.11)"
+			]
+		},
+		{
+			"NR": "54",
+			"TYTUL": "Święto Zesłania Ducha Świętego - poniedziałek",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Albowiem Duch Pański wypełnia ziemię. Alleluja!",
+						"Zb: Ten, który ogarnia wszystko, ma znajomość mowy. Alleluja! (Mdr 1, 7)",
+						"Ks: Panie, racz zbawić! Alleluja!",
+						"Zb: Panie, racz poszczęścić! Alleluja!",
+						"Ks: Pan jest Bogiem, On nas oświeca. Alleluja!",
+						"Zb: Tyś Bogiem moim, przeto dziękować Ci będę. Alleluja! (Ps 118)"
+					]
+				}
+			],
+			"GRADUALE": "Chwalcie Pana dla potężnych dzieł Jego, I chwalcie go za niezmierzoną wielkość Jego! Alleluja! (Ps 150,2)",
+			"ANTYFONA": [
+				"Ks: Ojcze! Chcę, aby wszyscy byli jedno, jak my jedno jesteśmy! Alleluja!",
+				"Zb: Aby i oni w nas jedno byli. Alleluja! (J 17,21)",
+				"Ks: Dziękujcie Panu, albowiem jest dobry. Alleluja!",
+				"Zb: Albowiem łaska Jego trwa na wieki! Alleluja! (Ps 118,29)"
+			]
+		},
+		{
+			"NR": "55",
+			"TYTUL": "Święto Trójcy Świętej - Trinitatis",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Królowi wieków, nieśmiertelnemu, niewidzialnemu, jedynemu Bogu. Alleluja!",
+						"Zb: Niechaj będzie cześć i chwała na wieki wieków. Alleluja! (1 Tm 1, 17)",
+						"Ks: Wywyższać Cię będę, Boże mój, Królu. Alleluja!",
+						"Zb: I błogosławić imieniu Twemu na wieki. Alleluja!",
+						"Ks: Królestwo Twoje jest Królestwem wiecznym. Alleluja!",
+						"Zb: A panowanie Twoje trwa przez wszystkie pokolenia. Alleluja! (Ps 145)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Wielki jest Pan i godzien wielkiej chwały. Alleluja!",
+						"Zb: A wielkość Jego jest niezgłębiona. Alleluja!",
+						"Ks: Głosić będę wspaniałą chwałę majestatu Twego. Alleluja!",
+						"Zb: I cudowne sprawy Twoje. Alleluja!",
+						"Ks: Pokolenie pokoleniu głosi dzieła Twoje. Alleluja!",
+						"Zb: Opowiada o potędze Twojej. Alleluja! (Ps 145)"
+					]
+				}
+			],
+			"GRADUALE": "Chwalcie Pana dla potężnych dzieł Jego, chwalcie Go za niezmierzoną wielkość Jego. Alleluja! (Ps 150,2)",
+			"ANTYFONA": [
+				"Ks: Bóg zesłał Ducha Syna swego do serc naszych. Alleluja!",
+				"Zb: Który woła: Abba, Ojcze! Alleluja! (Rz 8, 15)"
+			]
+		},
+		{
+			"NR": "56",
+			"TYTUL": "1. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Będę błogosławił Pana w każdym czasie,",
+						"Zb: Chwała Jego niech będzie zawsze na ustach moich!",
+						"Ks: Dusza moja będzie się chlubić Panem!",
+						"Zb: Niechaj słuchają pokorni i się weselą!",
+						"Ks: Wysławiajcie ze mną Pana!",
+						"Zb: Wywyższajmy wspólnie imię Jego! (Ps 34,2-4)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Skosztujcie i zobaczcie, że Pan jest dobry;",
+						"Zb: Błogosławiony człowiek, który u Niego szuka schronienia!",
+						"Ks: Bójcie się Pana, święci Jego!",
+						"Zb: Bo niczego nie brak tym, którzy się Go boją.",
+						"Ks: Szukałem Pana i mi odpowiedział,",
+						"Zb: I uchronił mnie od wszystkich obaw moich. (Ps 34,9.10.5)"
+					]
+				}
+			],
+			"GRADUALE": "Świadectwa Twoje są sprawiedliwe na wieki, daj mi rozum, abym ożył! Alleluja! (Ps li 9, 144)",
+			"ANTYFONA": [
+				"Ks: Pan wyzwala duszę sług swoich. Alleluja!",
+				"Zb: I nie będą ukarani ci, którzy mu ufają. Alleluja! (Ps 34,23)",
+				"Ks: Panie, Ty jesteś nam bliski. Alleluja!",
+				"Zb: A wszystkie Twoje przykazania są prawdą. Alleluja! (Ps 119,151)"
+			]
+		},
+		{
+			"NR": "57",
+			"TYTUL": "2. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosławieni, którzy są zaproszeni na weselną ucztę Baranka. (Obj 19,9)",
+						"Zb: Bo u Ciebie jest źródło życia.",
+						"Ks: Panie! Łaska Twoja do niebios sięga.",
+						"Zb: Wierność Twoja aż do obłoków.",
+						"Ks: Sprawiedliwość Twoja - jak góry Boże,",
+						"Zb: Prawo Twoje - jak głębina niezmierna! (Ps 36,6-7.10)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Jakże cenna jest łaska Twoja, Boże!",
+						"Zb: Przeto ludzie chronią się w cieniu skrzydeł Twoich.",
+						"Ks: Bo u Ciebie jest źródło życia,",
+						"Zb: W światłości Twojej oglądamy światłość.",
+						"Ks: Niech spocznie na nas łaska Twoja, Panie,",
+						"Zb: Ponieważ w Tobie mamy nadzieję! (Ps 33,22; 36,8.10)"
+					]
+				}
+			],
+			"GRADUALE": "Miłuję cię, Panie, I mocy moja. Alleluja! (Ps 18,2)",
+			"ANTYFONA": [
+				"Ks: Błogosławieni, którzy łakną i pragną sprawiedliwości. Alleluja!",
+				"Zb: Albowiem oni będą nasyceni. Alleluja! (Mt 5,6)"
+			]
+		},
+		{
+			"NR": "58",
+			"TYTUL": "3. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosław, duszo moja, Panu",
+						"Zb: I wszystko, co we mnie, imieniu jego świętemu!",
+						"Ks: On odpuszcza wszystkie winy twoje,",
+						"Zb: Leczy wszystkie choroby twoje.",
+						"Ks: On nasyca dobrem życie twoje,",
+						"Zb: Tak iż odnawia się jak u orła młodość twoja. (Ps 103,2-3.5)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Miłosierny i łaskawy jest Pan, cierpliwy i pełen dobroci.",
+						"Zb: Nie prawuje się ustawicznie, nie gniewa się na wieki.",
+						"Ks: Nie postępuje z nami według grzechów naszych",
+						"Zb: Ani nie odpłaca nam według win naszych.",
+						"Ks: Lecz jak wysoko jest niebo nad ziemią,",
+						"Zb: Tak wielka jest dobroć Jego dla tych, którzy się Go boją. (Ps 103,8-11)"
+					]
+				}
+			],
+			"GRADUALE": "Pan jest miłosierny i łaskawy, I cierpliwy i pełen dobroci. Alleluja! (Ps 103,8)",
+			"ANTYFONA": [
+				"Ks: Jak się lituje ojciec nad dziećmi. Alleluja!",
+				"Zb: Tak się lituje Pan nad tymi, którzy się Go boją, Alleluja! (Ps 103,13)"
+			]
+		},
+		{
+			"NR": "59",
+			"TYTUL": "4. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Będę Cię wysławiał, Panie, całym sercem,",
+						"Zb: Będę opowiadał wszystkim cuda Twoje!",
+						"Ks: Będę się weselił i radował w Tobie,",
+						"Zb: Będę opiewał imię Twoje, Najwyższy!",
+						"Ks: Pan sądzić będzie świat sprawiedliwie,",
+						"Zb: A ludy będzie osądzać bezstronnie. (Ps 9,2-3.9)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Pan stanie się schronieniem uciśnionemu,",
+						"Zb: Schronieniem w czasie niedoli.",
+						"Ks: Ufać będą Tobie ci, którzy znają imię Twoje,",
+						"Zb: Bo nie opuszczasz, Panie, tych, którzy Cię szukają.",
+						"Ks: Śpiewajcie Panu, który mieszka na Syjonie,",
+						"Zb: Opowiadajcie pośród ludów dzieła Jego! (Ps 9, 10-12)"
+					]
+				}
+			],
+			"GRADUALE": "Dobrze jest dziękować Panu i opiewać imię Twe, o Najwyższy. Alleluja! (Ps 92,2)",
+			"ANTYFONA": [
+				"Ks: Pan jest sprawiedliwy i kocha sprawiedliwość. Alleluja!",
+				"Zb: Prawi zobaczą oblicze Jego. Alleluja! (Ps 11, 7)"
+			]
+		},
+		{
+			"NR": "60",
+			"TYTUL": "5. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wysławiajcie Pana, albowiem jest dobry,",
+						"Zb: Albowiem łaska Jego trwa na wieki!",
+						"Ks: Kto wysłowi potężne dzieła Pana?",
+						"Zb: Kto ogłosi całą chwałę Jego?",
+						"Ks: Błogosławieni, którzy strzegą prawa,",
+						"Zb: W każdym czasie wykonują sprawiedliwość! (Ps 106,1-3)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Pomnij o mnie, Panie, przez życzliwość dla ludu swego,",
+						"Zb: Nawiedź mnie zbawieniem swoim.",
+						"Ks: Spraw, bym mógł oglądać szczęście wybrańców Twoich,",
+						"Zb: Radować się radością ludu Twego.",
+						"Ks: Przypomnij sobie, Panie, o swym przymierzu z nami.",
+						"Zb: I zlituj się według wielkiej łaski swojej. (Ps 106,4-5.45)"
+					]
+				}
+			],
+			"GRADUALE": "Pan objawił zbawienie swoje, na oczach narodów okazał sprawiedliwość swoją. Alleluja! (Ps 98,2)",
+			"ANTYFONA": [
+				"Ks: Panie, Ty jesteś zawsze ze mną. Alleluja!",
+				"Zb: Tyś ujął prawą rękę moją. Alleluja! (Ps 73,23)"
+			]
+		},
+		{
+			"NR": "61",
+			"TYTUL": "6. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Nie bój się, bo cię wykupiłem,",
+						"Zb: Nazwałem cię twoim imieniem - moim jesteś! (Iz 43,1)",
+						"Ks: Przychodźcie przed oblicze Jego z weselem!",
+						"Zb: Wiedzcie, że Pan jest Bogiem!",
+						"Ks: On nas uczynił i do Niego należymy,",
+						"Zb: Myśmy ludem Jego i trzodą pastwiska Jego. (Ps 100,2-3)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Wejdźcie w bramy Pańskie z dziękczynieniem,",
+						"Zb: W przedsionki Jego z pieśnią chwały!",
+						"Ks: Wysławiajcie Go, błogosławcie imieniu Jego!",
+						"Zb: Albowiem Pan jest dobry;",
+						"Ks: Na wieki trwa łaska Jego,",
+						"Zb: A wierność Jego z pokolenia w pokolenie. (Ps 100,4-5)"
+					]
+				}
+			],
+			"GRADUALE": "Będę opowiadał imię Twoje braciom moim, będę Cię chwalił pośród zgromadzenia. Alleluja! (Ps 22,23)",
+			"ANTYFONA": [
+				"Ks: Niech nam Bóg błogosławi. Alleluja!",
+				"Zb: Niech się Go boją wszystkie krańce ziemi! Alleluja! (Ps 67,8)"
+			]
+		},
+		{
+			"NR": "62",
+			"TYTUL": "7. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Boże, jak imię Twoje,",
+						"Zb: Tak i chwała Twoja sięga krańców ziemi. (Ps 48,11)",
+						"Ks: Niech mówią odkupieni przez Pana,",
+						"Zb: Ci, których wyzwolił z ręki nieprzyjaciela.",
+						"Ks: Wołali do Pana w swej niedoli,",
+						"Zb: A On wybawił ich z utrapienia. (Ps 107,1-2.6)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Niechaj wysławiają Pana za łaskę Jego",
+						"Zb: I za Jego cuda dla synów ludzkich,",
+						"Ks: On napoił duszę pragnącego,",
+						"Zb: A duszę głodnego napełnił dobrem!",
+						"Ks: Wołali do Pana w swej niedoli,",
+						"Zb: A On wybawił ich z utrapienia. (Ps 107,8.9.13)"
+					]
+				}
+			],
+			"GRADUALE": "Od wschodu słońca aż do zachodu, niech imię Pańskie będzie pochwalone. Alleluja! (Ps 113, 3)",
+			"ANTYFONA": [
+				"Ks: Ubodzy jeść będą i nasycą się. Alleluja!",
+				"Zb: Będą chwalić Pana ci, którzy go szukają. Alleluja! (Ps 22,27)"
+			]
+		},
+		{
+			"NR": "63",
+			"TYTUL": "8. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wielki jest Pan i godny wielkiej chwały",
+						"Zb: W mieście Boga naszego, na swej górze świętej.",
+						"Ks: Pięknie wzniesiona jest rozkosz całej ziemi,",
+						"Zb: Góra Syjon, miasto Boga wielkiego.",
+						"Ks: Rozważamy, Boże, łaskę Twoją",
+						"Zb: We wnętrzu świątyni Twojej. (Ps 48,2.3.10)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Imię Twoje, Boże, i chwała Twoja sięga krańców ziemi,",
+						"Zb: Prawica Twoja pełna jest sprawiedliwości.",
+						"Ks: Niech się raduje góra Syjon i weselą córki judzkie",
+						"Zb: Z powodu sądów Twoich, Panie.",
+						"Ks: Bóg nasz jest na wieki wieków,",
+						"Zb: On nas prowadzi poza śmierć. (Ps 48, 11.12.15)"
+					]
+				}
+			],
+			"GRADUALE": "Nie nam, Panie, nie nam, ale imieniu swemu daj chwałę, dla łaski swojej, dla wierności swojej. Alleluja! (Ps 115, 1)",
+			"ANTYFONA": [
+				"Ks: Ześlij, Panie, światło i prawdę swoją. Alleluja!",
+				"Zb: Niech mnie wprowadzą do przybytków Twoich. Alleluja! (Ps 43,3)"
+			]
+		},
+		{
+			"NR": "64",
+			"TYTUL": "9. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Pragnę czynić wolę Twoją, mój Boże,",
+						"Zb: A zakon Twój jest we wnętrzu moim.",
+						"Ks: Zwiastowałem sprawiedliwość w wielkim zgromadzeniu,",
+						"Zb: Ty wiesz, Panie, że warg swoich nie zamknąłem.",
+						"Ks: Nie zataiłem Twojej łaski i wierności",
+						"Zb: Toteż Ty, Panie, nie odmawiaj mi litości swojej. (Ps 40,9-12)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Nie ukrywałem, Panie, w sercu swoim sprawiedliwości Twojej,",
+						"Zb: Opowiadałem o Twojej wierności i zbawieniu.",
+						"Ks: Ty jesteś pomocą moją i wybawieniem moim.",
+						"Zb: Boże mój, nie zwlekaj!",
+						"Ks: Zechciej, Panie, mnie ocalić,",
+						"Zb: Panie, pośpiesz mi z pomocą! (Ps 40, 11.18.14)"
+					]
+				}
+			],
+			"GRADUALE": "Niech się rozweselą i rozradują w Tobie wszyscy, którzy cię szukają; niechaj ci, którzy miłują zbawienie Twoje mówią zawsze: Wielki jest Pan! Alleluja! (Ps 40, 17)",
+			"ANTYFONA": [
+				"Ks: Panie! Przez wierność swoją wysłuchaj mnie w sprawiedliwości swojej! Alleluja!",
+				"Zb: Nie pozywaj na sąd sługi swego! Alleluja! (Ps 143,1.2)"
+			]
+		},
+		{
+			"NR": "65",
+			"TYTUL": "10. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosławiony niech będzie Pan, Bóg Izraela. Alleluja!",
+						"Zb: Od wieków na wieki. Alleluja! (Ps 106,48)",
+						"Ks: Boże, pamiętaj o gromadce swojej, którą dawno nabyłeś,",
+						"Zb: Wykupiłeś jako szczep dziedzictwa Twego.",
+						"Ks: Pomnij, Panie, na przymierze,",
+						"Zb: Powstań, Boże, broń sprawy swojej! (Ps 74,2.20.22)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Dusza nasza oczekuje Pana,",
+						"Zb: On pomocą naszą i tarczą naszą.",
+						"Ks: Oto oko Pana jest nad tymi, którzy się Go boją,",
+						"Zb: Nad tymi, którzy spodziewają się łaski Jego,",
+						"Ks: Niech spocznie na nas łaska Twoja, Panie,",
+						"Zb: Ponieważ w Tobie mamy nadzieję! (Ps 33, 18.20.22)"
+					]
+				}
+			],
+			"GRADUALE": "Błogosławiony naród, którego Pan jest Bogiem, lud, który wybrał sobie na dziedzictwo. Alleluja! (Ps 33, 12)",
+			"ANTYFONA": [
+				"Ks: Pan jest Bogiem naszym. Alleluja!",
+				"Zb: A my ludem pastwiska Jego i trzodą ręki Jego. Alleluja! (Ps 95, 7)"
+			]
+		},
+		{
+			"NR": "66",
+			"TYTUL": "11. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Od wschodu słońca aż do zachodu.",
+						"Zb: Niech imię Pańskie będzie pochwalone.",
+						"Ks: Któż jest jak Pan, Bóg nasz,",
+						"Zb: Który mieszka na wysokościach.",
+						"Ks: On podnosi nędzarza z prochu,",
+						"Zb: A ubogiego wywyższa ze śmieci. (Ps 113, 3. 5. 7)",
+						"Ks: Chwalcie, słudzy Pana,",
+						"Zb: Chwalcie imię Pańskie!"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Niechaj imię Pana będzie błogosławione.",
+						"Zb: Odtąd aż na wieki!",
+						"Ks: Pan ubogiego wywyższa ze śmieci,",
+						"Zb: Aby posadzić go z książętami ludu swego. (Ps 113,1.2.7.8)"
+					]
+				}
+			],
+			"GRADUALE": "Wysławiajcie Pana, wzywajcie imienia Jego, głoście narodom czyny jego! Alleluja! (Ps 105,1)",
+			"ANTYFONA": [
+				"Ks: Nakłoń, Boże mój, swojego ucha i usłysz nasze błagania. Alleluja!",
+				"Zb: Gdyż nie dla naszej sprawiedliwości zanosimy je przed Twoje oblicze, lecz dla obfitego Twojego miłosierdzia. Alleluja! (Dn 9,18)"
+			]
+		},
+		{
+			"NR": "67",
+			"TYTUL": "12. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: W owym dniu głusi będą słyszeć słowa księgi.",
+						"Zb: A oczy ślepych z mroku i z ciemności będą widzieć. (Iz 29,18)",
+						"Ks: Bo Pan uzdrawia tych, których serce jest złamane,",
+						"Zb: I zawiązuje ich rany.",
+						"Ks: Wielki jest Pan nasz i potężny w mocy,",
+						"Zb: Mądrość Jego jest niezmierzona. (Ps 147,3.5)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Śpiewajcie Panu pieśń dziękczynną,",
+						"Zb: Grajcie Panu naszemu na cytrze!",
+						"Ks: Pan podnosi pokornych,",
+						"Zb: Bezbożnych do ziemi poniża.",
+						"Ks: Pan ma upodobanie w tych, którzy się Go boją,",
+						"Zb: Którzy ufają łasce Jego. (Ps 147, 7.6.11)"
+					]
+				}
+			],
+			"GRADUALE": "Będę błogosławił Pana w każdym czasie, chwała Jego niech będzie zawsze na ustach moich. Alleluja! (Ps 34,2)",
+			"ANTYFONA": [
+				"Ks: Dobrze jest śpiewać Bogu naszemu. Alleluja!",
+				"Zb: Bo to wdzięczna rzecz; pieśń chwały jest miła. Alleluja! (Ps 147,1)"
+			]
+		},
+		{
+			"NR": "68",
+			"TYTUL": "13. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosławieni miłosierni. Alleluja!",
+						"Zb: Albowiem oni miłosierdzia dostąpią. Alleluja! (Mt 5,7)",
+						"Ks: Z całego serca wołam: wysłuchaj mnie, Panie!",
+						"Zb: Chcę pełnić ustawy Twoje.",
+						"Ks: Bliski jesteś, Panie,",
+						"Zb: A wszystkie Twe przykazania są prawdą. (Ps 119,145.151)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Błogosławiony mąż, który boi się Pana",
+						"Zb: I rozmiłował się w Jego przykazaniach!",
+						"Ks: Światło świeci prawym w ciemności,",
+						"Zb: On jest łaskawy, miłosierny i sprawiedliwy.",
+						"Ks: Szczęśliwy mąż, który się lituje i pożycza,",
+						"Zb: Serce jego jest mocne, gdyż ufa Panu. (Ps 112, 1. 4. 5. 7)"
+					]
+				}
+			],
+			"GRADUALE": "Błogosławieni miłosierni, albowiem oni miłosierdzia dostąpią. Alleluja! (Mt 5, 7)",
+			"ANTYFONA": [
+				"Ks: Miłujmy nie słowem ani językiem. Alleluja!",
+				"Zb: Lecz czynem i prawdą. Alleluja! (1 J 3,18)"
+			]
+		},
+		{
+			"NR": "69",
+			"TYTUL": "14. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Chwal, duszo moja, Pana!",
+						"Zb: Pókim żyw, chwalić będę Pana.",
+						"Ks: Śpiewać będę Bogu memu,",
+						"Zb: Dopóki żyć będę.",
+						"Ks: Pan wymierza sprawiedliwość skrzywdzonym,",
+						"Zb: On dochowuje wierności na wieki. (Ps 146, 1-3. 7. 6.)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Błogosławiony ten, którego pomocą jest Bóg Jakuba,",
+						"Zb: Którego nadzieja jest w Panu, Bogu Jego.",
+						"Ks: Pan uczynił niebo i ziemię,",
+						"Zb: On otwiera oczy ślepych i podnosi zgnębionych.",
+						"Ks: Pan strzeże przychodniów, sierotę i wdowę wspomaga,",
+						"Zb: On jest Bogiem twoim po wszystkie pokolenia. (Ps 146,5-6.8.9-10)"
+					]
+				}
+			],
+			"GRADUALE": "Jak się lituje ojciec nad dziećmi, I tak się lituje Pan nad tymi, którzy się go boją. Alleluja! (Ps 103, 13)",
+			"ANTYFONA": [
+				"Ks: Kto ofiaruje dziękczynienie, czci mnie. Alleluja!",
+				"Zb: A temu, kto nienagannie postępuje, ukażę zbawienie Boże. Alleluja! (Ps 50,23)"
+			]
+		},
+		{
+			"NR": "70",
+			"TYTUL": "15. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Jeśli Pan domu nie zbuduje,",
+						"Zb: Próżno trudzą się ci, którzy go budują.",
+						"Ks: Jeśli Pan nie strzeże miasta",
+						"Zb: Daremnie stróż czuwa.",
+						"Ks: Błogosławiony każdy, który się boi Pana,",
+						"Zb: Który kroczy Jego drogami! (Ps 127, 1-2; 128, 1)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Błogosławiony każdy, który się boi Pana,",
+						"Zb: Owoc trudu rąk swoich spożywać będzie.",
+						"Ks: Będzie szczęśliwy i dobrze mu się powiedzie,",
+						"Zb: Ten, który boi się Pana!",
+						"Ks: Niech ci Pan da oglądać szczęście Jeruzalemu",
+						"Zb: Po wszystkie dni życia Twego! (Ps 128,1.2.4.5)"
+					]
+				}
+			],
+			"GRADUALE": "Skosztujcie i zobaczcie, że Pan jest dobry: Błogosławiony człowiek, który u Niego szuka schronienia. Alleluja! (Ps 34,9)",
+			"ANTYFONA": [
+				"Ks: Wszelką troskę swoją złóżcie na Pana. Alleluja!",
+				"Zb: Gdyż On ma o was staranie. Alleluja! (I P 5, 7)"
+			]
+		},
+		{
+			"NR": "71",
+			"TYTUL": "16. Niedziela po Trójcy ",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wysławiać cię będę, Panie, bo wyciągnąłeś mnie z toni,",
+						"Zb: I nie pozwoliłeś wrogom moim cieszyć się ze mnie.",
+						"Ks: Boże mój, wołałem do Ciebie i uzdrowiłeś mnie,",
+						"Zb: Podniosłeś z otchłani duszę moją.",
+						"Ks: Panie, bądź moim wspomożycielem!",
+						"Zb: Aby dusza moja śpiewała ci i nie zamilkła. (Ps 30,2-4.11.13)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Wysławiajcie Pana, święci Jego,",
+						"Zb: I wyznawajcie święte imię Jego!",
+						"Ks: Bo tylko chwilę trwa gniew Jego,",
+						"Zb: Ale życzliwość Jego całe życie. ",
+						"Ks: Wysłuchaj, Panie, i zmiłuj się nade mną!",
+						"Zb: Panie, Boże mój, będę Cię wiecznie wysławiał. (Ps 30,5-6.11-13)"
+					]
+				}
+			],
+			"GRADUALE": "Bóg jest nam Bogiem zbawienia, Pan wszechmocny wybawia od śmierci. Alleluja! (Ps 68,21)",
+			"ANTYFONA": [
+				"Ks: Wspaniały jest Bóg w świątyni swojej. Alleluja!",
+				"Zb: Bóg daje moc i siłę ludowi. Alleluja! (Ps 68,36) M"
+			]
+		},
+		{
+			"NR": "72",
+			"TYTUL": "17. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Do Ciebie, Panie, wznoszę duszę moją.",
+						"Zb: Boże mój! Tobie ufam.",
+						"Ks: Rozwesel duszę sługi swego,",
+						"Zb: Bo do Ciebie, Panie, duszę mą podnoszę!",
+						"Ks: Ty, Panie, jesteś dobry i przebaczasz,",
+						"Zb: I jesteś łaskawy dla wszystkich, którzy Cię wzywają. (Ps 25,J; Ps 86,4-5)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Wskaż mi, Panie, drogę swoją,",
+						"Zb: Bym postępował w prawdzie Twojej.",
+						"Ks: Spraw, by serce moje jednego tylko pragnęło,",
+						"Zb: Bojaźni imienia Twego!",
+						"Ks: Będę Cię wysławiał, Panie, całym sercem",
+						"Zb: I będę wielbił imię Twoje na wieki. (Ps 86,11-12)"
+					]
+				}
+			],
+			"GRADUALE": "Będę opiewał zawsze dzieła łaski Pana! Ustami swymi będę głosił przez wszystkie pokolenia wierność Twoją. Alleluja! (Ps 89,2)",
+			"ANTYFONA": [
+				"Ks: Wszystkie narody przyjdą i kłaniać się będą Tobie, Panie. Alleluja!",
+				"Zb: I będą wielbić imię Twoje, Panie. Alleluja! (Ps 86,9)"
+			]
+		},
+		{
+			"NR": "73",
+			"TYTUL": "18. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Szczęśliwy mąż, który nie idzie za radą bezbożnych",
+						"Zb: Ani nie stoi na drodze grzeszników.",
+						"Ks: Lecz ma upodobanie w zakonie Pana",
+						"Zb: I zakon Jego rozważa dniem i nocą.",
+						"Ks: Panie, wskaż mi drogi swoje,",
+						"Zb: Naucz mnie ścieżek swoich! (Ps 1,1-2; 25,4)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Błogosławiony każdy, który się boi Pana,",
+						"Zb: Który kroczy Jego drogami!",
+						"Ks: Pomnij o mnie, Panie, przez życzliwość dla ludu swego,",
+						"Zb: Nawiedź mnie zbawieniem swoim,",
+						"Ks: Bym mógł oglądać szczęście wybrańców Twoich,",
+						"Zb: Radować się radością ludu Twego.(Ps 128,1; 106,4-5)"
+					]
+				}
+			],
+			"GRADUALE": "Społeczność z Panem mają ci, którzy się go boją, On też obwieszcza im przymierze swoje. Alleluja! (Ps 25,14)",
+			"ANTYFONA": [
+				"Ks: Błogosławieni, którzy strzegą prawa. Alleluja!",
+				"Zb: W każdym czasie wykonują sprawiedliwość! Alleluja! (Ps 106,3)"
+			]
+		},
+		{
+			"NR": "74",
+			"TYTUL": "19. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosławiony ten, któremu odpuszczono występek,",
+						"Zb: Ten, którego grzech został zakryty.",
+						"Ks: Otaczasz mnie radością wybawienia.",
+						"Zb: I winy mojej nie ukryłem.",
+						"Ks: Błogosławiony człowiek, któremu Pan nie poczytuje winy,",
+						"Zb: A w duchu jego nie ma obłudy! (Ps 32,1-2.5)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Ty jesteś, Panie, ochroną moją,",
+						"Zb: Strzeżesz mnie od ucisku.",
+						"Ks: Kto ufa Panu,",
+						"Zb: Tego Jego łaska otacza.",
+						"Ks: Weselcie się w Panu i radujcie się sprawiedliwi!",
+						"Zb: Śpiewajcie radośnie wszyscy prawego serca! (Ps 32,7.10.11)"
+					]
+				}
+			],
+			"GRADUALE": "Panie, łaska Twoja trwa na wieki, I nie zaniechaj dzieła rąk Twoich. Alleluja! (Ps 138,Bb)",
+			"ANTYFONA": [
+				"Ks: Pan wysłuchuje tych, którzy do Niego wołają. Alleluja!",
+				"Zb: I ocala ich ze wszystkich udręk. Alleluja! (Ps 34,18-19)"
+			]
+		},
+		{
+			"NR": "75",
+			"TYTUL": "20. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Chwalcie Pana, wszyscy aniołowie Jego,",
+						"Zb: Chwalcie go, wszystkie zastępy Jego!",
+						"Ks: Niech wszystko chwali imię Pańskie,",
+						"Zb: Bo On rozkazał i zostało stworzone!",
+						"Ks: Chwalcie Pana królowie ziemscy i wszystkie narody,",
+						"Zb: Młodzieńcy i starcy razem z dziećmi. (Ps 148,2.5. 11.12)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Zakon Pana jest doskonały,",
+						"Zb: Pokrzepia dusze.",
+						"Ks: Świadectwo Pana jest wierne,",
+						"Zb: Uczy prostaczka mądrości.",
+						"Ks: Rozkazy Pana są słuszne, rozweselają serce,",
+						"Zb: Przykazanie Pana jest jasne, oświeca oczy. (Ps 19,8-9)"
+					]
+				}
+			],
+			"GRADUALE": "Naucz mnie, Panie, drogi ustaw swoich, a będę jej strzegł do końca. Alleluja! (Ps 119,33)",
+			"ANTYFONA": [
+				"Ks: Panie, Słowo Twoje trwa na wieki. Alleluja!",
+				"Zb: Prawda Twoja trwa z pokolenia w pokolenie. Alleluja! (Ps 119,89-90)"
+			]
+		},
+		{
+			"NR": "76",
+			"TYTUL": "21. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Droga Boża jest doskonała,",
+						"Zb: Słowo Pańskie jest wypróbowane.",
+						"Ks: Jest tarczą wszystkim, którzy w Nim ufają,",
+						"Zb: A łaskawość Twoja czyni mnie wielkim.",
+						"Ks: Dajesz mi tarczę zbawienia swego",
+						"Zb: A prawica Twoja mnie wspiera. (Ps 18,31.36)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Nie bój się, bom Ja z tobą,",
+						"Zb: Nie lękaj się, bom Ja Bogiem twoim!",
+						"Ks: Wzmocnię cię, a dam ci pomoc,",
+						"Zb: Podeprę cię prawicą sprawiedliwości swojej.",
+						"Ks: Ująłem cię za twoją prawicę",
+						"Zb: I mówię do ciebie: Ja cię wspomogę! (Iz 41,10.13)"
+					]
+				}
+			],
+			"GRADUALE": "Łaskę i prawo opiewać będę; I Tobie, Panie grać będę. Alleluja! (Ps 101,1)",
+			"ANTYFONA": [
+				"Ks: Panie, niech u Ciebie znajdą upodobanie słowa ust moich. Alleluja!",
+				"Zb: I myśli serca mego u Ciebie, Panie, Opoko moja i Odkupicielu mój! Alleluja! (Ps 19,J 5)"
+			]
+		},
+		{
+			"NR": "77",
+			"TYTUL": "22. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Z głębokości wołam do Ciebie, Panie!",
+						"Zb: Panie, wysłuchaj głosu mojego!",
+						"Ks: Jeżeli będziesz zważał na winy, Panie,",
+						"Zb: Panie, któż się ostoi?",
+						"Ks: U Ciebie jest odpuszczenie,",
+						"Zb: Aby się Ciebie bano. (Ps 130,1-4)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: W Panu pokładam nadzieję,",
+						"Zb: Oczekuję słowa Jego.",
+						"Ks: Dusza moja oczekuje Pana,",
+						"Zb: Tęskniej niż stróże poranku.",
+						"Ks: Oczekuj Pana, gdyż u Pana jest łaska",
+						"Zb: I odkupienie u Niego obfite! (Ps 130,5-8)"
+					]
+				}
+			],
+			"GRADUALE": "Pan uzdrawia tych, których serce jest złamane, I i zawiązuje ich rany. Alleluja! (Ps 147,3)",
+			"ANTYFONA": [
+				"Ks: Panie, nie pozywaj na sąd sługi swego.",
+				"Zb: Gdyż nikt z żyjących nie okaże się sprawiedliwym przed Tobą. (Ps 143,2)"
+			]
+		},
+		{
+			"NR": "78",
+			"TYTUL": "23. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Jedynemu władcy, Królowi królów i Panu panów,",
+						"Zb: Niech będzie cześć i moc wieczna. (1 Tm 6,15b.16)",
+						"Ks: Pan spogląda z nieba i widzi wszystkich ludzi.",
+						"Zb: On patrzy na wszystkich mieszkańców ziemi.",
+						"Ks: Oto oko Pana jest nad tymi, którzy się Go boją,",
+						"Zb: Nad tymi, którzy spodziewają się łaski Jego. (Ps 33,13.14.18)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Dusza nasza oczekuje Pana,",
+						"Zb: On pomocą naszą i tarczą naszą.",
+						"Ks: W Nim bowiem raduje się serce nasze,",
+						"Zb: Bo zaufaliśmy Jego świętemu imieniu.",
+						"Ks: Niech spocznie na nas łaska Twoja, Panie,",
+						"Zb: Ponieważ w Tobie mamy nadzieję! (Ps 33,20-22)"
+					]
+				}
+			],
+			"GRADUALE": "Niech dziękują Ci, Panie, wszystkie dzieła Twoje, a wierni Twoi niech cię błogosławią! Niech mówią o chwale królestwa Twego i niech opiewają potęgę Twoją. Alleluja! (Ps 144,10.11)",
+			"ANTYFONA": [
+				"Ks: Niech się rozweselą i rozradują w Tobie wszyscy, którzy Cię szukają. Alleluja!",
+				"Zb: Niechaj mówią zawsze: Wielki jest Pan! Alleluja! (Ps 40,17)"
+			]
+		},
+		{
+			"NR": "79",
+			"TYTUL": "24. Niedziela po Trójcy Świętej",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Daj mi, Panie, poznać miarę dni moich",
+						"Zb: Abym wiedział, jak jestem znikomy!",
+						"Ks: Oto na szerokość dłoni wymierzyłeś dni moje",
+						"Zb: A jak tchnienie jest tylko wszelki człowiek.",
+						"Ks: W Tobie jest nadzieja moja.",
+						"Zb: Ratuj mnie od wszelkich występków moich! (Ps 39,5.6.8-9)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Czegóż mam się spodziewać teraz, o Panie?",
+						"Zb: W Tobie jest nadzieja moja.",
+						"Ks: Wysłuchaj, Panie, modlitwy mojej,",
+						"Zb: I nastaw uszu na wołanie moje!",
+						"Ks: Nie milcz na łzy moje!",
+						"Zb: Gdyż jestem tylko przychodniem u Ciebie. (Ps 39,8.13)"
+					]
+				}
+			],
+			"GRADUALE": "Prawica Pana podniesiona, prawica Pana odnosi zwycięstwo. Alleluja! (Ps 118, 16)",
+			"ANTYFONA": [
+				"Ks: Chrystus umarł i ożył. Alleluja!",
+				"Zb: Aby nad umarłymi i nad żywymi panować. Alleluja! (Rz 14,9)"
+			]
+		},
+		{
+			"NR": "80",
+			"TYTUL": "Trzecia Niedziela przed końcem Roku Kościelnego",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Ty, Panie, zachowałeś duszę moją od dołu zagłady,",
+						"Zb: Gdyż poza siebie rzuciłeś wszystkie moje grzechy.",
+						"Ks: Ty znowu człowieka w proch obracasz",
+						"Zb: I mówisz: Wracajcie, synowie ludzcy!",
+						"Ks: Zwróć się ku nam, Panie!",
+						"Zb: Zmiłuj się nad sługami swymi! (Ps 90,3.13)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Panie, giniemy od gniewu Twego,",
+						"Zb: A srogością Twoją jesteśmy przerażeni.",
+						"Ks: Położyłeś, Panie, winy nasze przed sobą,",
+						"Zb: Tajne grzechy nasze w świetle oblicza swego.",
+						"Ks: Nasyć nas o świcie łaską swoją,",
+						"Zb: Abyśmy się weselili i radowali przez wszystkie dni nasze! (Ps 90, 7-8. 14)"
+					]
+				}
+			],
+			"GRADUALE": "Wysławiamy cię, Boże, wysławiamy. Wzywamy imienia Twego, opowiadamy cuda Twoje. Alleluja! (Ps 75,2)",
+			"ANTYFONA": [
+				"Ks: Niech spocznie na nas łaska Pana, Boga naszego. Alleluja!",
+				"Zb: A dzieło rąk naszych utwierdzaj wśród nas! Alleluja! (Ps 90,17)"
+			]
+		},
+		{
+			"NR": "81",
+			"TYTUL": "Przedostatnia Niedziela Roku Kościelnego",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Pan idzie, by sądzić ziemię.",
+						"Zb: Będzie sądził świat sprawiedliwie, a ludy według swej wiernosc1. (Ps 96,13)",
+						"Ks: Panie! Słuchaj modlitwy mojej, usłysz błaganie moje!",
+						"Zb: Przez wierność swoją wysłuchaj mnie w sprawiedliwości swojej!",
+						"Ks: Nie pozywaj na sąd sługi swego,",
+						"Zb: Gdyż nikt z żyjących nie okaże się sprawiedliwym przed Tobą! (Ps 143, 1-2)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Wyciągam, Panie, ręce do Ciebie,",
+						"Zb: Dusza moja pragnie Ciebie jak zeschła ziemia.",
+						"Ks: Wysłuchaj mnie rychło, Panie, bo duch mój omdlewa,",
+						"Zb: I nie ukrywaj przede mną oblicza swego.",
+						"Ks: Daj mi o świcie doznać łaski Twojej!",
+						"Zb: Wskaż mi drogę, którą mam chodzić. (Ps 143,6-8)"
+					]
+				}
+			],
+			"GRADUALE": "Niebiosa zwiastują sprawiedliwość Jego, ponieważ sam Bóg jest sędzią. Alleluja! (Ps 50,6)",
+			"ANTYFONA": [
+				"Ks: Naucz mnie czynić wolę swoją, bo Ty jesteś Bogiem moim. Alleluja!",
+				"Zb: Niech dobry Duch Twój prowadzi mnie po równej ziemi! Alleluja! (Ps 143,10)"
+			]
+		},
+		{
+			"NR": "82",
+			"TYTUL": "Ostatnia Niedziela Roku Kościelnego - Niedziela Wieczności - O Dniu Ostatecznym",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wrócą odkupieni przez Pana,",
+						"Zb: Pójdą na Syjon z radosnym śpiewem.",
+						"Ks: Wieczna radość owionie ich głowę, dostąpią wesela i radości,",
+						"Zb: A troska i wzdychanie znikną. (Iz 35, JO)",
+						"Ks: Ci, którzy siali ze łzami,",
+						"Zb: Niech zbierają z radością! (Ps I 26,5)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Wielkich rzeczy dokonał Pan z nami,",
+						"Zb: Przeto byliśmy weseli, a język nasz był pełen radości.",
+						"Ks: Usta nasze były pełne śmiechu,",
+						"Zb: Gdy Pan wywiódł z niewoli uprowadzonych z Syjonu.",
+						"Ks: Odmień, Panie, losy nasze",
+						"Zb: Jak strumienie w ziemi południowej. (Ps I 26, 1-4)"
+					]
+				}
+			],
+			"GRADUALE": "Dasz mi poznać drogę życia, obfitość radości w obliczu Twoim, rozkosz po prawicy Twojej na wieki. Alleluja! (Ps 16, 11)",
+			"ANTYFONA": [
+				"Ks: Kto wychodzi z płaczem! Alleluja!",
+				"Zb: Będzie wracał z radością. Alleluja! (Ps 126,6)"
+			]
+		},
+		{
+			"NR": "83",
+			"TYTUL": "Uroczystości apostołów i ewangelistów",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Jak miłe są na górach nogi tego, który zwiastuje wieść radosną,",
+						"Zb: Który ogłasza pokój i zbawienie. (Iz 52, 7)",
+						"Ks: Będę opiewał zawsze dzieła łaski Pana!",
+						"Zb: Ustami swymi będę głosił wierność Twoją. (Ps 89,2)",
+						"Ks: Niebiosa wysławiają cuda Twoje, Panie.",
+						"Zb: I wierność Twoją w zgromadzeniu świętych. (Ps 89, 6)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Błogosławiony lud, który umie się radować",
+						"Zb: I chodzi w światłości oblicza Twego, Panie.",
+						"Ks: Każdego dnia raduje się z imienia Twego,",
+						"Zb: A sprawiedliwość Twoja go wywyższa.",
+						"Ks: Bo Ty jesteś blaskiem mocy jego,",
+						"Zb: A z życzliwości Twojej podnosi się siła nasza. (Ps 89,16-18)"
+					]
+				}
+			],
+			"GRADUALE": "Radujcie się w Panu, sprawiedliwi!  Prawym przystoi chwała. [Alleluja!] (Ps 33,1)",
+			"ANTYFONA": [
+				"Ks: Jesteśmy zbudowani na fundamencie apostołów i proroków. [Alleluja!]",
+				"Zb: Którego kamieniem węgielnym jest sam Chrystus Jezus. [Alleluja!] (Ef 2,20)"
+			]
+		},
+		{
+			"NR": "84",
+			"TYTUL": "Dzień ofiarowania Pana Jezusa - Oczyszczenie Marii Panny - 2 lutego",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Ześlij światło i prawdę swoją,",
+						"Zb: Niech mnie prowadzą.",
+						"Ks: Niech mnie wprowadzą na górę Twą świętą.",
+						"Zb: I do przybytków Twoich. (Ps 43,3)",
+						"Ks: Wielki jest Pan i godny wielkiej chwały.",
+						"Zb: W mieście Boga naszego, na swej górze świętej. (Ps 48,2)"
+					]
+				}
+			],
+			"GRADUALE": "Oddaję pokłon przybytkowi Twemu świętemu i wysławiam imię Twoje za łaskę i wierność Twoją. Alleluja! (Ps 138,2)",
+			"ANTYFONA": [
+				"Ks: Chwalić będę Pana, pókim żyw. Alleluja!",
+				"Zb: Śpiewać będę Bogu memu, dopóki żyć będę. Alleluja! (Ps 146,2)"
+			]
+		},
+		{
+			"NR": "85",
+			"TYTUL": "Dzień Zwiastowania Marii Pannie - 25 marca",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wielkie rzeczy uczynił mi Wszechmocny",
+						"Zb: I święte jest imię Jego. (Łk 1,49)",
+						"Ks: Tron twój, Boże, trwa na wieki wieków.",
+						"Zb: Berłem sprawiedliwym jest berło królestwa Twego.",
+						"Ks: Miłujesz sprawiedliwość, a nienawidzisz bezprawia,",
+						"Zb: Dlatego pomazał Cię twój Bóg olejkiem wesela. (Ps 45,7-8)"
+					]
+				}
+			],
+			"GRADUALE": "Pókim żyw, Chwalić będę Pana, śpiewać będę Bogu memu, dopóki żyć będę. [Alleluja!) (Ps 146,2)",
+			"ANTYFONA": [
+				"Ks: Słowo ciałem się stało i zamieszkało wśród nas. [Alleluja!]",
+				"Zb: I ujrzeliśmy chwałę Jego. [Alleluja!] (J 1,14)"
+			]
+		},
+		{
+			"NR": "86",
+			"TYTUL": "Uroczystość narodzenia św. Jana Chrzciciela - 24 czerwca",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Oto Ja posyłam mojego anioła. Alleluja!",
+						"Zb: Aby mi przygotował drogę przede mną. Alleluja! (Ml 3,1)",
+						"Ks: Dobrze jest dziękować Panu!",
+						"Zb: I opiewać imię Twe, o Najwyższy!",
+						"Ks: Rozweseliłeś mnie Panie, czynami Twymi.",
+						"Zb: Raduję się z dzieł rąk Twoich. (Ps 92,2-3.5)"
+					]
+				}
+			],
+			"GRADUALE": "Światłość wschodzi sprawiedliwemu i radość tym, którzy są prawego serca! Alleluja! (Ps 97, I I)",
+			"ANTYFONA": [
+				"Ks: Trawa usycha, kwiat więdnie. Alleluja!",
+				"Zb: Ale Słowo Boga naszego trwa na wieki. Alleluja! (Iz 40,8)"
+			]
+		},
+		{
+			"NR": "87",
+			"TYTUL": "Pamiątka Wyznania Augsburskiego - 25 czerwca",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Nie wstydzę się Ewangelii Chrystusowej. Alleluja!",
+						"Zb: Jest ona bowiem mocą Bożą ku zbawieniu każdego, kto wierzy. Alleluja! (Rz 1,16)",
+						"Ks: Przed królami mówić będę o świadectwach Twoich. Alleluja!",
+						"Zb: I nie będę się wstydzić. Alleluja!",
+						"Ks: Pan Zastępów jest z nami. Alleluja!",
+						"Zb: Warownym grodem jest nam Bóg. Alleluja! (Ps 46,8)"
+					]
+				}
+			],
+			"GRADUALE": "Słońcem i tarczą jest Pan, Bóg, łaski i chwały Pan udziela, nie odmawia tego, co dobre, tym, którzy żyją w niewinności. Alleluja! (Ps 84,12)",
+			"ANTYFONA": [
+				"Ks: Bóg jest ucieczką i siłą naszą. Alleluja!",
+				"Zb: Pomocą w utrapieniach najpewniejszą. Alleluja! (Ps 46,2)"
+			]
+		},
+		{
+			"NR": "88",
+			"TYTUL": "Dzień Nawiedzenia Marii Panny - 2 lipca",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wielbi dusza moja Pana,",
+						"Zb: I rozradował się duch mój w Bogu, Zbawicielu moim, ",
+						"Ks: Bo wejrzał na uniżoność Służebnicy swojej.",
+						"Zb: Oto bowiem odtąd błogosławioną zwać mnie będą wszystkie pokolenia.",
+						"Ks: Bo wielkie rzeczy uczynił mi Wszechmocny",
+						"Zb: I święte jest imię Jego. (Łk 1,46-49)"
+					]
+				}
+			],
+			"GRADUALE": "Śpiewajcie Panu pieśń nową, bo cuda uczynił! Prawica i Jego święte ramię przyniosły mu zwycięstwo. Alleluja! (Ps 98,1)",
+			"ANTYFONA": [
+				"Ks: Błogosławiona, która uwierzyła. Alleluja!",
+				"Zb: Że nastąpi wypełnienie słów, które Pan do niej wypowiedział. Alleluja! (Łk 1,45)"
+			]
+		},
+		{
+			"NR": "89",
+			"TYTUL": "Święto Przemienienia Pańskiego - 6 sierpnia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Ten jest Syn mój umiłowany, którego sobie upodobałem. Alleluja!",
+						"Zb: Jego słuchajcie. Alleluja! (Mt 17,5)",
+						"Ks: Niech się weselą mnogie wyspy. Alleluja!",
+						"Zb: Sprawiedliwość i prawo są podstawą tronu Jego. Alleluja!",
+						"Ks: Niebiosa głoszą sprawiedliwość Jego. Alleluja!",
+						"Zb: A wszystkie ludy widzą chwałę Jego. Alleluja! (Ps 97)"
+					]
+				}
+			],
+			"GRADUALE": "Ten jest Syn mój umiłowany, którego sobie upodobałem. Jego słuchajcie. Alleluja! (Mt 17,5)",
+			"ANTYFONA": [
+				"Ks: Gdy się objawi Chrystus, będziemy do Niego podobni. Alleluja!",
+				"Zb: Gdyż ujrzymy Go takim, jakim jest. Alleluja! (1 J 3,2)"
+			]
+		},
+		{
+			"NR": "90",
+			"TYTUL": "Dzień archanioła Michała i wszystkich aniołów - 29 września",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosławcie Panu, Aniołowie Jego. Alleluja!",
+						"Zb: Potężni siłą, wykonujący Słowo Jego. Alleluja!",
+						"Ks: Błogosławcie Panu wszystkie zastępy Jego. Alleluja!",
+						"Zb: Słudzy Jego, pełniący wolę Jego. Alleluja!",
+						"Ks: Pan na niebiosach utwierdził swój tron. Alleluja!",
+						"Zb: A Królestwo Jego panuje nad wszystkimi. Alleluja! (Ps 103)"
+					]
+				}
+			],
+			"GRADUALE": "Chwalcie Go, wszyscy aniołowie Jego, chwalcie Go wszystkie zastępy Jego! Alleluja! (Ps 148,2)",
+			"ANTYFONA": [
+				"Ks: Aniołom swoim polecił. Alleluja!",
+				"Zb: Aby cię strzegli na wszystkich drogach twoich. Alleluja! (Ps 91,11)"
+			]
+		},
+		{
+			"NR": "91",
+			"TYTUL": "Dziękczynne Święto Żniw Niedziela po św. Michale",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, jak liczne są dzieła Twoje! Alleluja!",
+						"Zb: Tyś wszystko mądrze uczynił: ziemia jest pełna dóbr Twoich. Alleluja!",
+						"Ks: Wszystko oczekuje na Ciebie, abyś im dał pokarm w swoim czasie. Alleluja!",
+						"Zb: Gdy otwierasz rękę swoją, nasycają się dobrem. Alleluja!",
+						"Ks: Wydajesz tchnienie swoje, a stworzone bywają. Alleluja!",
+						"Zb: I odnawiasz oblicze ziemi. Alleluja! (Ps 104)"
+					]
+				}
+			],
+			"GRADUALE": "Dobrze jest śpiewać Bogu naszemu, bo to rzecz wdzięczna; pieśń chwały jest miła. Alleluja! (Ps 147, 1)",
+			"ANTYFONA": [
+				"Ks: Będę śpiewał Panu, pókim żyw. Alleluja!",
+				"Zb: Będę grał Bogu memu, póki jestem. Alleluja! (Ps 104,33)"
+			]
+		},
+		{
+			"NR": "92",
+			"TYTUL": "Pamiątka Reformacji - 31 października",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Nie wstydzę się Ewangelii Chrystusowej! Alleluja!",
+						"Zb: Jest ona bowiem mocą Bożą ku zbawieniu każdego, kto wierzy. Alleluja! (Rz 1, 16)",
+						"Ks: Bóg jest ucieczką naszą i siłą naszą. Alleluja!",
+						"Zb: Pomocą w utrapieniach najpewniejszą. Alleluja!",
+						"Ks: Przeto się nie boimy, choćby ziemia zadrżała. Alleluja!",
+						"Zb: I góry zachwiały się w głębi mórz. Alleluja! (Ps 46)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Przed królami mówić będę o świadectwach Twoich. Alleluja!",
+						"Zb: I nie będę się wstydził. Alleluja! (Ps 119,46)",
+						"Ks: Pan Zastępów jest z nami. Alleluja!",
+						"Zb: Warownym grodem jest nam Bóg. Alleluja!",
+						"Ks: Bogu ufam, nie lękam się. Alleluja!",
+						"Zb: Cóż mi może uczynić człowiek? Alleluja!"
+					]
+				}
+			],
+			"GRADUALE": "Słońcem i tarczą jest Pan, Bóg, łaski i chwały Pan udziela, nie odmawia tego, co dobre, tym, którzy żyją w niewinności. Alleluja! (Ps 84,12)",
+			"ANTYFONA": [
+				"Ks: Panie, w Tobie pokładam nadzieję moją. Alleluja!",
+				"Zb: Ty odpowiadasz, Panie, Boże mój. Alleluja! (Ps 38,16)"
+			]
+		},
+		{
+			"NR": "93",
+			"TYTUL": "Pamiątka Świętych Pańskich - 1 listopada",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Święci zwyciężyli przez krew Baranka",
+						"Zb: I przez słowo świadectwa swojego. (Obj 12, 11)",
+						"Ks: Panie, niebiosa wysławiają cuda Twoje!",
+						"Zb: I wierność Twoją w zgromadzeniu świętych.",
+						"Ks: Bóg groźny jest w gronie świętych.",
+						"Zb: Potężny i straszny nad wszystkich wokół Niego. (Ps 89)"
+					]
+				}
+			],
+			"GRADUALE": "Alleluja! Śpiewajcie Panu pieśń nową, na chwałę Jego w zgromadzeniach wiernych. Alleluja! (Ps 149, 1)",
+			"ANTYFONA": [
+				"Ks: Słudzy Boga i Baranka służyć Mu będą. Alleluja!",
+				"Zb: I oglądać będą Jego oblicze, a imię Jego będzie na ich czołach. Alleluja! (Obj 22,3c-4)"
+			]
+		},
+		{
+			"NR": "94",
+			"TYTUL": "Pamiątka Umarłych - 1 listopada",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, naucz nas liczyć dni nasze,",
+						"Zb: Abyśmy zyskali mądre serce. (Ps 90,12)",
+						"Ks: Gdy Pan wywiódł z niewoli uprowadzonych z Syjonu!",
+						"Zb: Byliśmy jak we śnie.",
+						"Ks: Kto wychodzi z płaczem,",
+						"Zb: Będzie wracał z radością! (Ps 126)"
+					]
+				}
+			],
+			"GRADUALE": "Ale ja dzięki sprawiedliwości ujrzę oblicze Twoje, kiedy się obudzę, nasycę się widokiem Twoim. Alleluja! (Ps 17, 15)",
+			"ANTYFONA": [
+				"Ks: Jezus Chrystus jest zmartwychwstaniem i życiem.",
+				"Zb: Kto w Niego wierzy, choćby i umarł, żyć będzie! (J 11,25)"
+			]
+		},
+		{
+			"NR": "95",
+			"TYTUL": "Dzień pokuty",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Szukajcie Pana, dopóki można Go znaleźć.",
+						"Zb: W zywajcie Go, dopóki jest blisko. (Iz 55,6)",
+						"Ks: Zmiłuj się nade mną, Boże, według łaski swojej.",
+						"Zb: Według wielkiej litości swojej zgładź występki moje.",
+						"Ks: Przeciwko Tobie samemu zgrzeszyłem.",
+						"Zb: I uczyniłem to, co złe w oczach Twoich. (Ps 51,3.6)"
+					]
+				}
+			],
+			"GRADUALE": "Tylko chwilę trwa gniew Jego, ale życzliwość Jego całe życie. (Ps 30,6a)",
+			"ANTYFONA": [
+				"Ks: Jeżeli będziesz zważał na winy, Panie?",
+				"Zb: Panie, któż się ostoi? (Ps 130,3)"
+			]
+		},
+		{
+			"NR": "96",
+			"TYTUL": "Nabożeństwo błagalne o Ducha Świętego i o odnowę Kościoła",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wyleję wody na spieczoną ziemię.",
+						"Zb: I strumienie na ląd suchy, (Iz 44,3)",
+						"Ks: Jak jeleń pragnie wód płynących.",
+						"Zb: Tak dusza moja pragnie Ciebie, Boże!",
+						"Ks: Dusza moja pragnie Boga, Boga żywego.",
+						"Zb: Kiedyż przyjdę i ukażę się przed obliczem Boga? (Ps 42,2-3)"
+					]
+				}
+			],
+			"GRADUALE": "Wspomóż nas, Boże zbawienia naszego, dla chwały imienia Twego wybaw nas. [Alleluja!] (Ps 79,9a)",
+			"ANTYFONA": [
+				"Ks: Panie, Boże Zastępów, spraw nam odnowę. [Alleluja!]",
+				"Zb: Rozjaśnij oblicze swoje, a będziemy zbawieni. [Alleluja!] (Ps 80,20)"
+			]
+		},
+		{
+			"NR": "97",
+			"TYTUL": "Nabożeństwo o jedność Kościoła",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: O, jak dobrze i miło.",
+						"Zb: Gdy bracia w zgodzie mieszkają!",
+						"Ks: Tam bowiem Pan zsyła błogosławieństwo.",
+						"Zb: Życie na wieki wieczne. (Ps 133)",
+						"Ks: Zbaw nas, Panie, Boże nasz i zgromadź nas spośród narodów.",
+						"Zb: Abyśmy dziękowali imieniu Twemu świętemu. (Ps 106)"
+					]
+				}
+			],
+			"GRADUALE": "Wspomóż nas, Boże zbawienia naszego, dla chwały imienia Twego! [Alleluja!] (Ps 79,9a)",
+			"ANTYFONA": [
+				"Ks: Po tym wszyscy poznają, żeście uczniami moimi. [Alleluja!]",
+				"Zb: Jeśli miłość wzajemną mieć będziecie. [Alleluja!] (J 13,35)"
+			]
+		},
+		{
+			"NR": "98",
+			"TYTUL": "Święto misji, ewangelizacji i diakonii",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Chwalcie Pana wszystkie narody! [Alleluja!]",
+						"Zb: Wysławiajcie Go, wszystkie ludy. [Alleluja!] (Ps 117,1)",
+						"Ks: Nie bój się, maleńka trzódko!",
+						"Zb: Gdyż upodobało się Ojcu waszemu dać wam Królestwo. (Łk 12,32)",
+						"Ks: Niech nam Bóg miłościw będzie",
+						"Zb: I niech nam błogosławi. (Ps 67,2)"
+					]
+				}
+			],
+			"GRADUALE": "Wspomóż nas, Boże zbawienia naszego, wybaw nas dla chwały imienia Twego. [Alleluja!] (Ps 79,9a)",
+			"ANTYFONA": [
+				"Ks: Niech nam Bóg błogosławi. [Alleluja!]",
+				"Zb: Niech się Go boją wszystkie krańce ziemi. [Alleluja!] (Ps 67,8)"
+			]
+		},
+		{
+			"NR": "99",
+			"TYTUL": "Święta narodowe",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosławiony naród, którego Pan jest Bogiem.",
+						"Zb: Lud, który wybrał sobie na dziedzictwo. (Ps 33,12)",
+						"Ks: Spraw nam odnowę, Boże zbawienia naszego.",
+						"Zb: I zaniechaj na nas gniewu swego!",
+						"Ks: Czyż nie ożywisz nas znowu.",
+						"Zb: Aby lud Twój rozradował się w Tobie? (Ps 85)"
+					]
+				}
+			],
+			"GRADUALE": "Wysławiajcie Pana, wzywajcie imienia Jego, I głoście narodom czyny Jego. Alleluja! (Ps 105,1)",
+			"ANTYFONA": [
+				"Ks: Panie, okazałeś łaskę ziemi swojej. Alleluja!",
+				"Zb: Odpuściłeś winę ludu swego! Alleluja! (Ps 85,2)"
+			]
+		},
+		{
+			"NR": "100",
+			"TYTUL": "Nabożeństwo o błogosławieństwo dla pracy - 1 maja",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, jak liczne są dzieła Twoje! Alleluja!",
+						"Zb: Tyś wszystko mądrze uczynił. Alleluja!",
+						"Ks: Wszystko oczekuje na Ciebie.",
+						"Zb: Abyś im dał pokarm w swym czasie.",
+						"Ks: Gdy dajesz im, zbierają.",
+						"Zb: Gdy otwierasz rękę swoją, nasycają się dobrem. (Ps 104)"
+					]
+				}
+			],
+			"GRADUALE": "Wspomóż nas, Boże zbawienia naszego, dla chwały imienia Twego wybaw nas. Alleluja! (Ps 79,9a)",
+			"ANTYFONA": [
+				"Ks: Niech spocznie na nas łaska Pana, Boga naszego. Alleluja!",
+				"Zb: A dzieło rąk naszych utwierdzaj wśród nas! Alleluja! (Ps 90,17)"
+			]
+		},
+		{
+			"NR": "101",
+			"TYTUL": "Nabożeństwo dla górników - 4 grudnia",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Ja pójdę przed tobą i dam ci schowane w mroku skarby.",
+						"Zb: Abyś poznał, że Ja jestem Panem. (Iz 45,2.3)",
+						"Ks: O Panie, racz zbawić.",
+						"Zb: O Panie, racz poszczęścić!",
+						"Ks: Dziękujcie Panu, albowiem jest dobry.",
+						"Zb: Albowiem łaska Jego trwa na wieki! (Ps 118)"
+					]
+				}
+			],
+			"GRADUALE": "Wspomóż nas, Boże zbawienia naszego, dla chwały imienia Twego wybaw nas. Alleluja! (Ps 79,9a)",
+			"ANTYFONA": [
+				"Ks: Niech spocznie na nas łaska Pana, Boga naszego. Alleluja!",
+				"Zb: A dzieło rąk naszych utwierdzaj wśród nas! Alleluja! (Ps 90,17)"
+			]
+		},
+		{
+			"NR": "102",
+			"TYTUL": "Nabożeństwo na rozpoczęcie roku szkolnego",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, naucz mnie czynić wolę swoją.",
+						"Zb: Niech dobry Duch Twój prowadzi mnie po równej ziemi! (Ps 143,10)",
+						"Ks: Ręce Twoje uczyniły mnie i ukształtowały.",
+						"Zb: Daj mi rozum, abym się nauczył przykazań Twoich! (Ps 119,73)",
+						"Ks: Z całego serca szukam Ciebie.",
+						"Zb: Nie daj mi zboczyć od przykazań Twoich! (Ps I I 9, I O)"
+					]
+				}
+			],
+			"GRADUALE": "Panie, Ty jesteś błogosławiony, naucz mnie ustaw Twoich. Alleluja! (Ps Il 9, 12)",
+			"ANTYFONA": [
+				"Ks: Jak zachowa młody człowiek w czystości życie swoje? Alleluja!",
+				"Zb: Gdy przestrzegać będzie słów Twoich. Alleluja! (Ps 119,9)"
+			]
+		},
+		{
+			"NR": "103",
+			"TYTUL": "Nabożeństwo na zakończenie roku szkolnego",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Wysławiajcie Pana nad pany. Alleluja!",
+						"Zb: Albowiem na wieki trwa łaska Jego! Alleluja! (Ps 136,3)",
+						"Ks: Błogosławieni, którzy strzegą prawa. Alleluja!",
+						"Zb: W każdym czasie wykonują sprawiedliwość. Alleluja! (Ps 106,3)",
+						"Ks: Ojcze! Poświęć ich w prawdzie Twojej! Alleluja!",
+						"Zb: Słowo Twoje jest prawdą! Aleluja! (J 17, 17)"
+					]
+				}
+			],
+			"GRADUALE": "Niech wesprze mnie ręka Twoja, gdyż wybrałem przykazania Twoje. Alleluja! (Ps 119, 17 3)",
+			"ANTYFONA": [
+				"Ks: Wysławiajcie Pana, albowiem jest dobry. Alleluja!",
+				"Zb: Albowiem łaska Jego trwa na wieki! Alleluja! (Ps 106,1)"
+			]
+		},
+		{
+			"NR": "104",
+			"TYTUL": "Konfirmacja",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"",
+						"Ks: Panie! Słowo Twoje trwa na wieki. [Alleluja!]",
+						"Zb: Niewzruszone jak niebiosa. [Alleluja!]",
+						"Ks: Słowo Twoje jest pochodnią nogom moim.",
+						"Zb: I światłością ścieżkom moim!",
+						"Ks: Przysiągłem i potwierdzam:",
+						"Zb: Chcę strzec Twoich praw sprawiedliwych. (Ps 119)"
+					]
+				}
+			],
+			"GRADUALE": "Pan pamięta o nas, będzie błogosławił. Będzie błogosławił tym, którzy się boją Pana. Alleluja! (Ps 115, 12a.13a)",
+			"ANTYFONA": [
+				"Ks: Bądź wierny, aż do śmierci. Alleluja!",
+				"Zb: A dam ci koronę żywota. Alleluja! (Obj 2,10)"
+			]
+		},
+		{
+			"NR": "105",
+			"TYTUL": "Przed wyborami na urząd kościelny (biskupa, proboszcza, radców)",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Jak miłe są na górach nogi tego, który zwiastuje wieść radosną. [Alleluja!]",
+						"Zb: Który ogłasza zbawienie. [Alleluja!] (Iz 52, 7)",
+						"Ks: Nie wstydzę się Ewangelii Chrystusowej.",
+						"Zb: Jest ona mocą Bożą ku zbawieniu każdego, kto wierzy. (Rz 1,16)",
+						"Ks: Będę opowiadał imię Twoje, braciom moim.",
+						"Zb: Będę Cię chwalił pośród zgromadzenia. (Ps 22,23)"
+					]
+				}
+			],
+			"GRADUALE": "Śpiewajcie Panu pieśń nową, na chwałę Jego w zgromadzeniu wiernych! [Alleluja!) (Ps 149, 1)",
+			"ANTYFONA": [
+				"Ks: Panie, spraw abyśmy trwali w nauce apostolskiej. [Alleluja!]",
+				"Zb: I we wspólnocie, w łamaniu chleba i w modlitwach. [Alleluja!] (Dz 2,42)"
+			]
+		},
+		{
+			"NR": "106",
+			"TYTUL": "Ordynacja - Konsekracja (wyświęcenie biskupa, księdza [prezbitera], diakona) Instalacja (biskupa, proboszcza, radców)",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Jak miłe są na górach nogi tego, który zwiastuje wieść radosną. [Alleluja!]",
+						"Zb: Który ogłasza zbawienie. [Alleluja!] (Iz 52, 7)",
+						"Ks: Nie wstydzę się Ewangelii Chrystusowej.",
+						"Zb: Jest ona mocą Bożą ku zbawieniu każdego, kto wierzy. (Rz 1,16)",
+						"Ks: Będę opowiadał imię Twoje, braciom moim.",
+						"Zb: Będę Cię chwalił pośród zgromadzenia. (Ps 22,23)"
+					]
+				}
+			],
+			"GRADUALE": "Służcie Panu z radością, I przychodźcie przed oblicze Jego z weselem. [Alleluja!] (Ps 100,2)",
+			"ANTYFONA": [
+				"Ks: Będzie opowiadać o Panu przyszłemu pokoleniu. [Alleluja!]",
+				"Zb: Ludowi, który się urodzi. [Alleluja!] (Ps 22,31b.32b)"
+			]
+		},
+		{
+			"NR": "107",
+			"TYTUL": "Zgromadzenia kościelne: synod, konferencja duchownych lub innych pracowników Kościoła",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Jak miłe są na górach nogi tego, który zwiastuje wieść radosną. [Alleluja!]",
+						"Zb: Który ogłasza zbawienie. [Alleluja!] (Iz 52, 7)",
+						"Ks: Nie wstydzę się Ewangelii Chrystusowej.",
+						"Zb: Jest ona mocą Bożą ku zbawieniu każdego, kto wierzy. (Rz 1,16)",
+						"Ks: Będę opowiadał imię Twoje, braciom moim.",
+						"Zb: Będę Cię chwalił pośród zgromadzenia. (Ps 22,23)"
+					]
+				}
+			],
+			"GRADUALE": "Śpiewajcie Panu pieśń nową, na chwałę Jego w zgromadzeniu wiernych! [Alleluja!) (Ps 149,1)",
+			"ANTYFONA": [
+				"Ks: O, jak dobrze i miło. [Alleluja!]",
+				"Zb: Gdy bracia w zgodzie mieszkają! [Alleluja!] (Ps 133,1)"
+			]
+		},
+		{
+			"NR": "108",
+			"TYTUL": "Święto Bratniej Pomocy imienia króla Gustawa Adolfa",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosławieni miłosierni. Alleluja!",
+						"Zb: Albowiem oni miłosierdzia dostąpią. Alleluja!",
+						"Ks: Pan buduje Jeruzalem. Alleluja!",
+						"Zb: Zgromadza rozproszonych Izraela. Alleluja!",
+						"Ks: Uzdrawia tych, których serce jest złamane. Alleluja!",
+						"Zb: I zawiązuje ich rany. Alleluja! (Ps 147)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Choćby się góry poruszyły i pagórki zachwiały. Alleluja!",
+						"Zb: Jednak moja łaska nie opuści cię. Alleluja! (Iz 54, I O)",
+						"Ks: Albowiem słońcem i tarczą jest Pan, Bóg. Alleluja!",
+						"Zb: Łaski i chwały Pan udziela. Alleluja!",
+						"Ks: Nie odmawia tego, co dobre. Alleluja!",
+						"Zb: Tym, którzy żyją w niewinności. Alleluja! (Ps 84)"
+					]
+				}
+			],
+			"GRADUALE": "Niech dziękują Ci, Panie, wszystkie dzieła Twoje, a wierni Twoi niech Ci błogosławią! Alleluja! (Ps 145,10)",
+			"ANTYFONA": [
+				"Ks: Dobrze czyńmy wszystkim. Alleluja!",
+				"Zb: A najwięcej domownikom wiary. Alleluja! (Ga 6, 10)"
+			]
+		},
+		{
+			"NR": "109",
+			"TYTUL": "Poświęcenie kościoła",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Bp: Otwórzcie mi bramy sprawiedliwości,",
+						"Zb: A wejdę w nie i złożę dzięki Panu!",
+						"Bp: Oto jest brama Pana,",
+						"Zb: Którą wejdą sprawiedliwi.",
+						"Bp: Dziękuję Ci, żeś mnie wysłuchał",
+						"Zb: I stałeś się zbawieniem moim. (z Psalmu 118,19-21)",
+						"Bp: Chwała niech będzie Ojcu i Synowi, i Duchowi Świętemu.",
+						"Zb: Jak było od początku, jak jest i jak będzie, na wieki wieków. Amen."
+					]
+				}
+			],
+			"GRADUALE": "Panie! Umiłowałem mieszkanie domu Twego, i miejsce przebywania chwały Twojej. [Alleluja!) (Ps 26,8)",
+			"ANTYFONA": [
+				"Ks: Oddaję pokłon przybytkowi Twemu świętemu. [Alleluja!]",
+				"Zb: I wysławiam imię Twoje za łaskę i wierność Twoją. [Alleluja!] (Ps 138,2)"
+			]
+		},
+		{
+			"NR": "110",
+			"TYTUL": "Pamiątka poświęcenia kościoła",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Jak miłe są przybytki Twoje, Panie Zastępów! [Alleluja!]",
+						"Zb: Dusza moja wzdycha i omdlewa z tęsknoty do przedsionków Pańskich. [Alleluja!]",
+						"Ks: Błogosławieni, którzy w domu Twoim mieszkają. [Alleluja!]",
+						"Zb: Nieustannie Ciebie chwalą! [Alleluja]",
+						"Ks: Albowiem lepszy jest dzień w przedsionkach Twoich. [Alleluja!]",
+						"Zb: Niż gdzie indziej tysiąc. [Alleluja]"
+					]
+				}
+			],
+			"GRADUALE": "Panie! Umiłowałem mieszkanie domu Twego, i miejsce przebywania chwały Twojej. [Alleluja!] (Ps 26,8)",
+			"ANTYFONA": [
+				"Ks: Oddaję pokłon przybytkowi Twemu świętemu. [Alleluja!]",
+				"Zb: I wysławiam imię Twoje za łaskę i wierność Twoją. [Alleluja!] (Ps 138,2)"
+			]
+		},
+		{
+			"NR": "111",
+			"TYTUL": "Nabożeństwo młodzieżowe",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Boże, uczyłeś mnie od młodości mojej. [Alleluja!]",
+						"Zb: A ja aż dotąd oznajmiam cudowne sprawy Twoje. [Alleluja!]",
+						"Ks: Tyś bowiem nadzieją moją, Panie. [Alleluja!]",
+						"Zb: Boże, Tyś ufnością moją od młodości mojej. [Alleluja!]",
+						"Ks: Jak zachowa młody człowiek w czystości życie swoje? [Alleluja!]",
+						"Zb: Gdy przestrzegać będzie słów Twoich. [Alleluja!] (Ps 119,9)"
+					]
+				}
+			],
+			"GRADUALE": "Ktokolwiek by chciał być między wami pierwszy, I niech będzie sługą waszym. [Alleluja!] (Mt 20,27)",
+			"ANTYFONA": [
+				"Ks: Wysławiajcie ze mną Pana!",
+				"Zb: Albowiem na wieki jest dobry. A miłosierdzie Jego trwa nad nami, na wieki wieków. A miłosierdzie Jego trwa nad nami, na wieki wieków."
+			]
+		},
+		{
+			"NR": "112",
+			"TYTUL": "Codzienne nabożeństwo poranne",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, otwórz wargi moje!",
+						"Zb: A usta moje głosić będą chwałę Twoją!",
+						"Ks: Boże, wejrzyj ku wspomożeniu memu.",
+						"Zb: Panie, pośpiesz ku ratunkowi memu.",
+						"Ks: Panie, wskaż mi drogi swoje.",
+						"Zb: Abym chodził w Prawdzie Twojej."
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Niebiosa opowiadają chwałę Boga,",
+						"Zb: A firmament głosi dzieło rąk Jego.",
+						"Ks: Dzień dniowi wieść przekazuje.",
+						"Zb: A noc nocy podaje wiadomość.",
+						"Ks: Niech znajdą upodobanie słowa ust moich.",
+						"Zb: I myśli serca mego u Ciebie, Panie!"
+					]
+				}
+			],
+			"GRADUALE": "Panie, Władco nasz, jak wspaniale jest imię Twoje na całej ziemi! [Alleluja!) (Ps 8, 10)",
+			"ANTYFONA": [
+				"Ks: Oczy moje widziały zbawienie Twoje. [Alleluja!]",
+				"Zb: Które przygotowałeś przed obliczem wszystkich ludów. [Alleluja!]",
+				"Ks: Będę Cię wysławiał, Panie, całym sercem swoim. [Alleluja!]",
+				"Zb: Będę się weselił i radował w Tobie! [Alleluja!] (Ps 9,2)"
+			]
+		},
+		{
+			"NR": "113",
+			"TYTUL": "Codzienne nabożeństwo wieczorne",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Panie, zostań z nami, gdyż ma się ku wieczorowi.",
+						"Zb: I dzień się już nachylił.",
+						"Ks: Boże, pamiętaj o mnie według łaski swojej.",
+						"Zb: Panie, wysłuchaj mnie w sprawiedliwości swojej.",
+						"Ks: Panie, Słowo Twoje jest pochodnią nogom moim.",
+						"Zb: I światłością ścieżkom moim!"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Niech imię Pańskie będzie błogosławione.",
+						"Zb: Odtąd aż na wieki.",
+						"Ks: Od wschodu słońca aż do zachodu.",
+						"Zb: Niech imię Pańskie będzie pochwalone.",
+						"Ks: Niech wznosi się ku Tobie modlitwa moja jak kadzidło.",
+						"Zb: A podniesienie rąk moich jak ofiara wieczorna!"
+					]
+				}
+			],
+			"GRADUALE": "Czuwajcie i módlcie się, abyście nie popadli w pokuszenie. [Alleluja!] (Mt 26,41)",
+			"ANTYFONA": [
+				"Ks: Wielbi dusza moja Pana. [Alleluja!]",
+				"Zb: I rozradował się duch mój w Bogu, Zbawicielu moim. [Alleluja!] (Łk 1,46-47)"
+			]
+		},
+		{
+			"NR": "114",
+			"TYTUL": "Wspomnienie męczennika Kościoła",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Drogocenna jest w oczach Pana śmierć wiernych Jego.",
+						"Zb: Tobie złożę ofiarę dziękczynną i będę wzywał imienia Pana.",
+						"Ks: Dusza moja tęskni do zbawienia Twojego.",
+						"Zb: Oczekuje słowa Twojego.",
+						"Ks: Oczy moje tęsknią do obietnicy Twojej.",
+						"Zb: Mówiąc: Kiedy mnie pocieszysz? (Ps 119)"
+					]
+				}
+			],
+			"GRADUALE": "Drogocenna jest w oczach Pana śmierć wiernych Jego. Tobie złożę ofiarę dziękczynną i będę wzywał imienia Pana. [Alleluja!] (Ps 116,15.17)",
+			"ANTYFONA": [
+				"Ks: Zachowaj mnie według łaski Twojej. [Alleluja!]",
+				"Zb: Bym mógł strzec świadectwa ust Twoich. [Alleluja!] (Ps 119)"
+			]
+		},
+		{
+			"NR": "115",
+			"TYTUL": "Nabożeństwo żałobne",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Bóg otrze wszelką łzę z oczu ich i śmierci już nie będzie ani smutku.",
+						"Zb: Albowiem pierwsze rzeczy przeminęły. (Obj 21,4)",
+						"Ks: Bóg, który Jezusa Chrystusa z martwych wzbudził.",
+						"Zb: Ożywi i nasze śmiertelne ciała przez Ducha swego, który w nas mieszka. (Rz 8, 11)",
+						"Ks: Jeśli umarliśmy z Chrystusem!",
+						"Zb: Wierzymy, że też z Nim żyć będziemy! (Rz 6,8)"
+					]
+				}
+			],
+			"GRADUALE": "Choćbym nawet szedł ciemną doliną, zła się nie ulęknę, boś Ty ze mną. Alleluja! (Ps 23,4)",
+			"ANTYFONA": [
+				"Ks: Wszystko, co mi daje Ojciec, do mnie przyjdzie.",
+				"Zb: A tego, który do mnie przychodzi, precz nie wyrzucę! (J 6,37)"
+			]
+		},
+		{
+			"NR": "116",
+			"TYTUL": "Nabożeństwo pogrzebowe",
+			"INTROITY": [
+				{
+					"INTROIT_NR": "1",
+					"TEKST": [
+						"Ks: Błogosławieni są odtąd umarli, którzy w Panu umierają.",
+						"Zb: Odpoczną po pracach swoich; uczynki ich idą za nimi. (Obj 14,13)",
+						"Ks: Panie, naucz nas liczyć dni nasze.",
+						"Zb: Abyśmy posiedli mądre serce!",
+						"Ks: Zwróć się ku nam, Panie!",
+						"Zb: Zmiłuj się nad sługami swymi! (Ps 90)"
+					]
+				},
+				{
+					"INTROIT_NR": "2",
+					"TEKST": [
+						"Ks: Panie, daj mi poznać kres mój i jaka jest miara dni moich.",
+						"Zb: Abym wiedział, jak jestem znikomy!",
+						"Ks: Oto na szerokości dłoni wymierzyłeś dni moje.",
+						"Zb: A okres życia mojego jest jak nic przed Tobą.",
+						"Ks: W Tobie jest nadzieja moja.",
+						"Zb: Ratuj mnie od wszelkich występków moich! (Ps 39)"
+					]
+				},
+				{
+					"INTROIT_NR": "3",
+					"TEKST": [
+						"Ks: Panie, teraz puszczasz sługę swego w pokoju.",
+						"Zb: Gdyż oczy moje widziały zbawienie Twoje. (Łk 2,29-30)",
+						"Ks: Wiem, że Odkupiciel mój żyje.",
+						"Zb: I że jako ostatni nad prochem stanie!",
+						"Ks: Uwolniony od swego ciała będę oglądał Boga.",
+						"Zb: Ja sam ujrzę Go i moje oczy Go zobaczą!"
+					]
+				},
+				{
+					"INTROIT_NR": "4",
+					"TEKST": [
+						"Ks: Pójdźcie do mnie wszyscy, którzy jesteście spracowani i obciążeni,",
+						"Zb: A ja wam dam ukojenie! (Mt 11,28)",
+						"Ks: Nie bój się, bo cię wykupiłem i nazwałem cię twoim imieniem,",
+						"Zb: Ty jesteś moją własnością! (Iz 43, 1)",
+						"Ks: Na świecie ucisk mieć będziecie, ale ufajcie,",
+						"Zb: Ale ufajcie. Ja świat zwyciężyłem. (J 16,33)"
+					]
+				},
+				{
+					"INTROIT_NR": "5",
+					"TEKST": [
+						"Ks: Niechaj się nie trwoży serce wasze!",
+						"Zb: Wierzcie w Boga i w Jezusa wierzcie!",
+						"Ks: W domu Ojca mego wiele jest mieszkań!",
+						"Zb: Idę przygotować wam miejsce. (J 14,1-2)",
+						"Ks: Kto żyje i wierzy we mnie,",
+						"Zb: Nie umrze na wieki. (J 11,26)"
+					]
+				},
+				{
+					"INTROIT_NR": "6",
+					"TEKST": [
+						"Ks: Zmiłuj się nade mną, Boże, według łaski swojej.",
+						"Zb: Według wielkiej litości swojej zgładź występki moje! (Ps 51,3)",
+						"Ks: Jeżeli będziesz zważał na winy, Panie!",
+						"Zb: Panie, któż się ostoi?",
+						"Ks: Panie, wysłuchaj głosu mojego.",
+						"Zb: Nakłoń uszu na głos błagania mego! (Ps 130)"
+					]
+				},
+				{
+					"INTROIT_NR": "7",
+					"TEKST": [
+						"Ks: Ja jestem dobry Pasterz.",
+						"Zb: Dobry Pasterz życie swoje kładzie za owce. (J 10,11)",
+						"Ks: Sługo dobry i wiemy, nad tym co małe, byłeś wiemy, wiele ci powierzę. (Mt 25,21)",
+						"Zb: Wejdź do radości Pana swego!",
+						"Ks: Gdzie Ja jestem, tam i sługa mój będzie;",
+						"Zb: Jeśli kto mnie służy, uczci go mój Ojciec. (J 12,26)"
+					]
+				},
+				{
+					"INTROIT_NR": "8",
+					"TEKST": [
+						"Ks: Pozwólcie dzieciom przychodzić do mnie i im nie zabraniajcie.",
+						"Zb: Albowiem takich jest Królestwo Boże.",
+						"Ks: Pan dał, Pan też wziął.",
+						"Zb: Niech będzie imię Pańskie błogosławione.",
+						"Ks: W ręce Twoje polecam ducha mego.",
+						"Zb: Odkupiłeś mnie, Panie, Boże wiemy. (Ps 31, 6)"
+					]
+				},
+				{
+					"INTROIT_NR": "9",
+					"TEKST": [
+						"Ks: Pamiętaj o swoim Stwórcy w kwiecie swojego wieku.",
+						"Zb: Zanim nadejdą złe dni, o których powiesz: Nie mam w nich upodobania. (Kz 12,1)",
+						"Ks: Tak niechaj świeci światłość wasza przed ludźmi.",
+						"Zb: Aby widzieli wasze dobre uczynki i chwalili Ojca waszego, który jest w niebie. (Mt 5,16)",
+						"Ks: Ofiarą miłą Bogu jest duch skruszony.",
+						"Zb: Sercem skruszonym i zgnębionym nie pogardzisz, o Boże. Ps 51,19"
+					]
+				},
+				{
+					"INTROIT_NR": "10",
+					"TEKST": [
+						"Ks: Wszystkie dni nasze znikają z powodu gniewu Twego.",
+						"Zb: Lata nasze giną jak westchnienie.",
+						"Ks: Położyłeś winy nasze przed sobą.",
+						"Zb: Tajne grzechy nasze w świetle oblicza swego.",
+						"Ks: Zwróć się ku nam, Panie.",
+						"Zb: Zmiłuj się nad sługami swymi. Ps 90, 8-9,13"
+					]
+				},
+				{
+					"INTROIT_NR": "11",
+					"TEKST": [
+						"Ks: Bóg jest ucieczką naszą",
+						"Zb: Pomocą naszą w utrapieniach najpewniejszą (Ps 46,2)", 
+						"Ks: Utrapienia teraźnieszego czasu nic nie znaczą w porównaniu z chwałą",
+						"Zb: Która ma się objawić (Rz 8,18)",
+						"Ks: Pan zastępów jest z nami",
+						"Zb: Grodem warownym jest nam Bóg Jakuba. (Ps 46,8)"
+					]
+				},
+				
+				
+				
+				{
+					"INTROIT_NR": "12",
+					"TEKST": [
+						"Ks: Niech spłynie na mnie łaska Twoja, Panie.",
+						"Zb: Zbawienie Twoje według obietnicy Twojej.",
+						"Ks: Dusza moja tęskni do zbawienia Twojego.",
+						"Zb: Oczekuję Słowa Twojego.",
+						"Ks: Oczy moje tęsknią do obietnicy Twojej.",
+						"Zb: Mówiąc: Kiedy mnie pocieszysz? Ps 119 ,41,81-82"
+					]
+				},
+				{
+					"INTROIT_NR": "13",
+					"TEKST": [
+						"Ks: Pamiętaj, że jesteś prochem.",
+						"Zb: I w proch się obrócisz. 1 Mż 3,19",
+						"Ks: Przybliżyło się Królestwo Boże.",
+						"Zb: Upamiętajcie się i wierzcie Ewangelii.Mk 1,15",
+						"Ks: Zmiłuj się nad swoim ludem, Panie.",
+						"Zb: I nie wystawiaj na hańbę swego dziedzictwa. Jl2,17"
+					]
+				},
+				{
+					"INTROIT_NR": "14",
+					"TEKST": [
+						"Ks: Mówcie do zaniepokojonych w sercu.",
+						"Zb: Bądźcie mocni, nie bójcie się. lz35,4",
+						"Ks: Panie, okazałeś łaskę ziemi swojej.",
+						"Zb: Odmieniłeś los Jakuba. Ps85,2",
+						"Ks: Czy nie ożywisz nas znowu.",
+						"Zb: Aby lud Twój rozradował się w Tobie. Ps 85,7"
+					]
+				},
+				{
+					"INTROIT_NR": "15",
+					"TEKST": [
+						"Ks: Pan strzec będzie wyjścia i wejścia twego.",
+						"Zb: Teraz i na wieki.",
+						"Ks. Oczy moje wznoszę ku górom.",
+						"Zb: Skąd nadejdzie mi pomoc?",
+						"Ks: Pan strzec cię będzie od zła wszelkiego.",
+						"Zb: Strzec będzie duszy twojej. Ps 121,1.7"
+					]
+				},
+				{
+					"INTROIT_NR": "16",
+					"TEKST": [
+						"Ks: Panie, Słowo Twoje trwa na wieki.",
+						"Zb: Niewzruszone jak niebiosa.",
+						"Ks: Panie, Słowo Twoje jest pochodnią nogom moim.",
+						"Zb: I światłością ścieżkom moim.",
+						"Ks: Wesprzyj mnie według obietnicy swojej.",
+						"Zb: Nie dopuść, abym doznał zawodu w nadziei mojej. Ps 119,89.105.116"
+					]
+				},
+				{
+					"INTROIT_NR": "17",
+					"TEKST": [
+						"Ks: Chrystus wstał z martwych.",
+						"Zb: On wstał prawdziwie. Łk 24,6a, 34a",
+						"Ks: Prawica Pana podniesiona.",
+						"Zb: Prawica Pana odnosi zwycięstwo.",
+						"Ks: Nie umrę, ale będę żył.",
+						"Zb: I opowiadać będę dzieła Pana. Ps 118,16-17"
+					]
+				},
+				{
+					"INTROIT_NR": "18",
+					"TEKST": [
+						"Ks: Pan jest Pasterzem moim.",
+						"Zb: Niczego mi nie braknie. Rz 14,9",
+						"Ks: Duszę moją pokrzepia i wiedzie mnie ścieżkami sprawiedliwości.",
+						"Zb: Ze względu na imię swoje.",
+						"Ks: Choćbym nawet szedł ciemną doliną.",
+						"Zb: Zła się nie ulęknę, boś Ty ze mną. Ps 23,1.3"
+					]
+				},
+				{
+					"INTROIT_NR": "19",
+					"TEKST": [
+						"Ks: Czegóż mam się spodziewać teraz, o Panie?",
+						"Zb: W Tobie jest nadzieja moja.",
+						"Ks: Wysłuchaj, Panie, modlitwy mojej.",
+						"Zb: I nastaw uszu na wołanie moje.",
+						"Ks: Nie milcz na łzy moje.",
+						"Zb: Gdyż jestem tylko przychodniem u Ciebie. Ps 39,8,13"
+					]
+				},
+				{
+					"INTROIT_NR": "20",
+					"TEKST": [
+						"Ks: Nie bój się, bom ja z tobą",
+						"Zb: Nie lękaj się, bom Ja Bogiem twoim.",
+						"Ks: Wzmocnię cię, a dam ci pomoc.",
+						"Zb: Podeprę cie prawicą sprawiedliwości swojej.",
+						"Ks: Ująłem cie za twoją prawicę.",
+						"Zb: I mówię do ciebie: Ja cię wspomogę. (Iz. 41;10,13)"
+					]
+				},
+				{
+					"INTROIT_NR": "21",
+					"TEKST": [
+						"Ks: Jedynie w Bogu jest uciszenie duszy mojej.",
+						"Zb: Bo w Nim pokładam nadzieję.",
+						"Ks: Tylko On jest opoką moją, zbawieniem moim i twierdzą moją.",
+						"Zb: Przeto się nie zachwieję.",
+						"Ks: W Bogu zbawienie moje i chwała moja.",
+						"Zb: Skała mocy mojej, ucieczka moja jest w Bogu. Ps 62,2-3,8"
+					]
+				},
+				{
+					"INTROIT_NR": "22",
+					"TEKST": [
+						"Ks: Ty, Panie, zachowałeś duszę moją od dołu zagłady.",
+						"Zb: Gdyż poza siebie rzuciłeś wszystkie moje grzechy.",
+						"Ks: Ty znowu człowieka w proch obracasz.",
+						"Zb: I mówisz: Wracajcie, synowie ludzcy.",
+						"Ks: Zwróć się ku nam, Panie.",
+						"Zb: Zmiłuj się nad sługami swymi. Ps 90,3,13"
+					]
+				},
+				{
+					"INTROIT_NR": "23",
+					"TEKST": [
+						"Ks: Oto oko Pana jest nad tymi, którzy się Go boją.",
+						"Zb: Nad tymi, którzy się spodziewają łaski Jego.",
+						"Ks: Dusza nasza oczekuje Pana.",
+						"Zb: On pomocą naszą i tarczą naszą.",
+						"Ks: Niech spocznie na nas łaska Twoja, Panie.",
+						"Zb: Ponieważ w Tobie mamy nadzieję. Ps 33,18.20.22"
+					]
+				},
+				{
+					"INTROIT_NR": "24",
+					"TEKST": [
+						"Ks: Panie, giniemy od gniewu Twego.",
+						"Zb: A srogością Twoją jesteśmy przerażeni.",
+						"Ks: Położyłeś, Panie, winy nasze przed sobą.",
+						"Zb: Tajne grzechy nasze w świetle oblicza swego.",
+						"Ks: Nasyć nas o świcie łaską swoją.",
+						"Zb: Abyśmy się weselili i radowali przez wszystkie dni nasze. Ps 90,7-9,14"
+					]
+				},
+				{
+					"INTROIT_NR": "25",
+					"TEKST": [
+						"Ks: Wrócą odkupieni przez Pana.",
+						"Zb: Pójdą na Syjon z radosnym śpiewem.",
+						"Ks: Wieczna radość owionie ich głowę, dostąpią wesela i radości.",
+						"Zb: A troska i wzdychanie znikną. Iz 35,10",
+						"Ks: Ci, którzy siali ze łzami.",
+						"Zb: Niech zbierają z radością. Ps 126,5"
+					]
+				}
+			],
+			"GRADUALE": [
+				"Pójdźcie, błogosławieni Ojca mego, odziedziczcie Królestwo przygotowane dla was od założenia świata. Alleluja! (Mt 25,34)",
+				"Błogosławieni, którzy się smucą, albowiem oni będą pocieszeni. (Mt 5,4)"
+			],
+			"ANTYFONA": [
+				"Ks: Jezus Chrystus jest zmartwychwstaniem i życiem!",
+				"Zb: Kto w Niego wierzy, choćby i umarł żyć będzie! (J 11,25)"
+			]
+		}
+	]
+}

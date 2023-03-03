@@ -1,5 +1,5 @@
 import BibliaEkumenicznaKsiegi from "./Jsons/BibliaEkumeniczna.json" assert { type: "json" };
-const BWBible = BibliaEkumenicznaKsiegi;
+const BEBible = BibliaEkumenicznaKsiegi.BibliaEkumenicznaKsiegi;
 const SelectBook = document.querySelector("#SelectBook");
 const SelectChapter = document.querySelector("#SelectChapters");
 const prevChapterButton = document.getElementById("prevChapterButton");
@@ -7,7 +7,7 @@ const nextChapterButton = document.getElementById("nextChapterButton");
 let currentChapter;
 let currentBook;
 
-BWBible.BibliaEkumenicznaKsiegi.forEach((x, index) => {
+BEBible.forEach((x, index) => {
   SelectBook.innerHTML += `<option value=${index}> ${x.TYTUL}</option>`;
 });
 
@@ -27,7 +27,7 @@ prevChapterButton.addEventListener("click", () => {
 function refreshChapters(BookNumber) {
   currentBook = BookNumber;
   SelectChapter.innerHTML = "";
-  BWBible.BibliaEkumenicznaKsiegi[BookNumber].ROZDZIALY.forEach((x, index) => {
+  BEBible[BookNumber].ROZDZIALY.forEach((x, index) => {
     let newOption = document.createElement("option");
     newOption.textContent = `${x.NR}`;
     newOption.setAttribute("value", `${index}`);
@@ -40,20 +40,18 @@ function getVerses(BookNumber, ChapterNumber) {
   if (
     ChapterNumber < 0 ||
     ChapterNumber >=
-      BWBible.BibliaEkumenicznaKsiegi[BookNumber].ROZDZIALY.length
+      BEBible[BookNumber].ROZDZIALY.length
   ) {
     alert("Przepraszamy, ale nie znaleźliśmy podanego rozdziału");
   } else {
     document.querySelector(".content").innerHTML = "";
     currentChapter = new Number(ChapterNumber);
-    BWBible.BibliaEkumenicznaKsiegi[BookNumber].ROZDZIALY[
-      ChapterNumber
-    ].WERSETY.forEach((x, index) => {
+    BEBible[BookNumber].ROZDZIALY[ChapterNumber].WERSETY.forEach((x, index) => {
       let newParagraph = document.createElement("p");
       newParagraph.classList.add("verseParagraph");
       newParagraph.innerHTML = `<span>${index + 1}</span> ${x.TRESC}`;
       document.querySelector(".content").appendChild(newParagraph);
-      console.log(BWBible.BibliaEkumenicznaKsiegi[BookNumber].ROZDZIALY.length);
+      console.log(BEBible[BookNumber].ROZDZIALY.length);
     });
     console.log(ChapterNumber);
   }

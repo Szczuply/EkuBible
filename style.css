@@ -35,7 +35,7 @@ header.nav-bar {
 }
 
 #SelectBook {
-  width: 250px;
+  width: auto;
 }
 
 h3 {
@@ -47,7 +47,7 @@ select {
   font-size: 1rem;
   display: flex;
   text-align: center;
-  padding: auto;
+  padding: 10px;
   border: none;
   background-color: red;
   -webkit-appearance: none;
@@ -61,14 +61,14 @@ option {
 }
 
 main {
-  width: 70vw;
+  width: 85vw;
   display: flex;
   flex-direction: column;
   border: 1px solid pink;
 }
 
 footer {
-  position: fixed;
+  position: relative;
   bottom: 0;
   display: flex;
   justify-content: center;
@@ -79,11 +79,11 @@ footer {
 }
 
 p {
-  font-size: 25px;
+  font-size: 22px;
   padding: 7px;
-  margin: 10px;
+  margin: 7px;
   border: 1px solid #bca3ac;
-  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.336);
+  box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.336);
 }
 
 p span {
@@ -97,4 +97,52 @@ p span {
   font-weight: 700;
   padding: 3px;
   margin: auto 20px auto 20px;
+}
+
+@media only screen and (max-width: 690px) {
+  
+header{
+  height: 60px !important;
+}
+
+  p{
+    font-size: 11px;
+  }
+
+  body{
+    width: 100%;
+  }
+
+  .selectDiv h3{
+    display: none;
+  }
+
+  .selectDiv{
+    height: 35px;
+    margin: auto;
+  }
+
+#SelectBook{
+  width: auto;
+}
+
+  select{
+    padding: 5px;
+    font-size: 11px;
+    height: 35px;
+    width: 35px;
+  }
+
+  main{
+    width: 100%;
+  }
+
+  footer{
+    height: 30px;
+  }
+
+  .ChapterButton{
+    font-size: 11px;
+  }
+
 }

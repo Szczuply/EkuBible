@@ -1,5 +1,10 @@
-import BibliaEkumenicznaKsiegi from "./Jsons/BibliaEkumeniczna.json" assert { type: "json" };
-const BEBible = BibliaEkumenicznaKsiegi.BibliaEkumenicznaKsiegi;
+fetch('./Jsons/BibliaEkumeniczna.json')
+  .then(response => response.json())
+  .then(json => {
+    
+  const BEBible = json.BibliaEkumenicznaKsiegi;
+// import BEBible from "./Jsons/BibliaEkumeniczna.json" assert {type: "json"}
+// const BEBible = BibliaEkumenicznaKsiegi.BibliaEkumenicznaKsiegi;
 const SelectBook = document.querySelector("#SelectBook");
 const SelectChapter = document.querySelector("#SelectChapters");
 const prevChapterButton = document.getElementById("prevChapterButton");
@@ -51,11 +56,10 @@ function getVerses(BookNumber, ChapterNumber) {
       newParagraph.classList.add("verseParagraph");
       newParagraph.innerHTML = `<span>${index + 1}</span> ${x.TRESC}`;
       document.querySelector(".content").appendChild(newParagraph);
-      console.log(BEBible[BookNumber].ROZDZIALY.length);
     });
-    console.log(ChapterNumber);
   }
 }
 
 refreshChapters(SelectBook.value);
 getVerses(SelectBook.value, SelectChapter.value);
+});
